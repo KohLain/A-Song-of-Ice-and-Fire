@@ -1,0 +1,5789 @@
+[{
+    "humans": {
+        "Aegon I Targaryen": {
+            "name": "Aegon Targaryen",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 3,
+                "alias": "Aegon the Conqueror"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 3,
+                "alias": "Aegon the Dragonlord"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 13,
+                "alias": "Aegon Dragonlord"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 27,
+                "alias": "Aegon the Dragon"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Lord of Dragonstone"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "King of All Westeros"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Shield of His People"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "King of the Andals, the Rhoynar, and the First Men"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Lord of the Seven Kingdoms"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Protector of the Realm"
+                }
+            ],
+            "family": {
+                "father": "Aerion Targaryen (son of Daemion)",
+                "mother": "Valaena Velaryon",
+                "sibling(s)": [
+                    "Rhaenys Targaryen",
+                    "Visenya Targaryen"
+                ],
+                "child(ren)": [
+                    "Aenys I Targaryen",
+                    "Maegor I Targaryen"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Visenya Targaryen",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Rhaenys Targaryen",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Purple",
+                "hair color": "Silver-gold"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "Dragonstone",
+                "date": "27 BC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "Dragonstone",
+                "date": "37 AC",
+                "by": {
+                    "type": "Nature",
+                    "name": "Stroke"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Aegon Targaryen (son of Rhaegar)": {
+            "name": "Aegon Targaryen",
+            "alias(es)": [{
+                "book": "A Clash of Kings",
+                "chapter": 48,
+                "alias": "The prince that was promised"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Targaryen"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Prince"
+            }],
+            "family": {
+                "father": "Rhaegar Targaryen",
+                "mother": "Elia Martell",
+                "sibling(s)": ["Rhaenys Targaryen (daughter of Rhaegar)"],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Purple",
+                "hair color": "Silver-gold"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "Dragonstone",
+                "date": "281 AC or 282 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "283 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Gregor Clegane"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Aerys II Targaryen": {
+            "name": "Aerys Targaryen",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 2,
+                "alias": "The Mad King"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 66,
+                "alias": "Mad King Aerys"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 36,
+                "alias": "King Scab"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 66,
+                "alias": "Aerys the Mad"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 22,
+                "alias": "Mad Aerys"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Prince of Dragonstone"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "King of the Andals, the Rhoynar, and the First Men"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Lord of the Seven Kingdoms"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Protector of the Realm"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Ser"
+                }
+            ],
+            "family": {
+                "father": "Jaehaerys II Targaryen",
+                "mother": "Shaera Targaryen",
+                "sibling(s)": [
+                    "Rhaella Targaryen"
+                ],
+                "child(ren)": [
+                    "Aegon Targaryen (son of Aerys II)",
+                    "Daenerys Targaryen",
+                    "Daeron Targaryen (son of Aerys II)",
+                    "Jaehaerys Targaryen (son of Aerys II)",
+                    "Rhaegar Targaryen",
+                    "Shaena Targaryen",
+                    "Viserys Targaryen"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Rhaella Targaryen",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Purple",
+                "hair color": "Silver-gold"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "King's Landing",
+                "date": "244 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "283 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Jaime Lannister"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Arya Stark": {
+            "name": "Arya Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 7,
+                "alias": "Arya Horseface"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 22,
+                "alias": "Arya Underfoot"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 1,
+                "alias": "Arry"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 1,
+                "alias": "Lumpyhead"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 5,
+                "alias": "Lumpyface"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 5,
+                "alias": "Stickboy"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 9,
+                "alias": "Rabbitkiller"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 26,
+                "alias": "Weasel"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 30,
+                "alias": "The ghost in Harrenhal"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 47,
+                "alias": "Nymeria"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 47,
+                "alias": "Nan"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 13,
+                "alias": "Squab"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 17,
+                "alias": "Squirrel"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 34,
+                "alias": "Wolf girl"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 6,
+                "alias": "Salty"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 34,
+                "alias": "Cat of the Canals"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 45,
+                "alias": "Blind Beth"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 45,
+                "alias": "The blind girl"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 45,
+                "alias": "The night wolf"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 64,
+                "alias": "The ugly girl"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Faceless Men"
+            }],
+            "title(s)": [
+                {
+                    "book": null,
+                    "chapter": null,
+                    "title": "Princess"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "title": "Lady of Winterfell"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "title": "Acolyte"
+                }
+            ],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Catelyn Stark",
+                "sibling(s)": [
+                    "Bran Stark",
+                    "Jon Snow",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Sansa Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": "Brown"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "289 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 10
+            }
+        },
+        "Ayrmidon": {
+            "name": "Ayrmidon",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": null,
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Valyrian"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Benjen Stark": {
+            "name": "Benjen Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 5,
+                "alias": "Uncle Benjen"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 24,
+                "alias": "Ben Stark"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 19,
+                "alias": "The young pup"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Night's Watch"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "First Ranger"
+            }],
+            "family": {
+                "father": "Rickard Stark",
+                "mother": "Lyarra Stark",
+                "sibling(s)": [
+                    "Brandon Stark",
+                    "Eddard Stark",
+                    "Lyanna Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Blue-grey",
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "267 AC or later"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 5
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 5
+            }
+        },
+        "Beth Cassel": {
+            "name": "Beth Cassel",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "house": "Cassel"
+                }
+            ],
+            "allegiance(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "allegiance": "House Cassel"
+                }
+            ],
+            "title(s)": null,
+            "family": {
+                "father": "Rodrik Cassel",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "288 AC or 289 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Bran Stark": {
+            "name": "Bran Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 9,
+                "alias": "Brandon"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 53,
+                "alias": "Bran the Broken"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 28,
+                "alias": "The winged wolf"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Prince of Winterfell"
+            }],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Catelyn Stark",
+                "sibling(s)": [
+                    "Arya Stark",
+                    "Jon Snow",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Sansa Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race":"First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Deep blue",
+                "hair color": "Auburn"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "290 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 8
+            }
+        },
+        "Brandon Stark": {
+            "name": "Brandon Stark",
+            "alias(es)": [{
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The wild wolf"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": "Rickard Stark",
+                "mother": "Lyarra Stark",
+                "sibling(s)": [
+                    "Benjen Stark",
+                    "Eddard Stark",
+                    "Lyanna Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Barbrey Dustin"
+                }]
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "262 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "282 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Aerys II Targaryen"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Brynden Tully": {
+            "name": "Brynden Tully",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 34,
+                "alias": "Brynden the Blackfish"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 34,
+                "alias": "Brynden Blackfish"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 34,
+                "alias": "Blackfish"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Tully"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Tully"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Warden of the Southern Marches"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Knight of the Gate"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Castellan of Riverrun"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Hoster Tully"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Rivermen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Deep blue",
+                "hair color": "Grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "Riverrun",
+                "date": "243 AC - 245 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Catelyn Stark": {
+            "name": "Catelyn Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 4,
+                "alias": "Catelyn Tully"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 10,
+                "alias": "Catelyn Tully Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 18,
+                "alias": "Cat"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 25,
+                "alias": "Stoneheart"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 42,
+                "alias": "Lady Stoneheart"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 42,
+                "alias": "The Silent Sister"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 42,
+                "alias": "Mother Merciless"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 42,
+                "alias": "The Hangwoman"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Tully"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Tully"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Brotherhood Without Banners"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lady of Winterfell"
+            }],
+            "family": {
+                "father": "Hoster Tully",
+                "mother": "Minisa Whent",
+                "sibling(s)": [
+                    "Edmure Tully",
+                    "Lysa Arryn"
+                ],
+                "child(ren)": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Sansa Stark"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Eddard Stark",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Rivermen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Blue",
+                "hair color": "Auburn"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "Riverrun",
+                "date": "264 AC or 265 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "The Twins",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Walder Frey (son of Ryman)"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 2
+            },
+            "last appearance": {
+                "book": "A Storm of Swords",
+                "chapter": 10
+            }
+        },
+        "Cersei Lannister": {
+            "name": "Cersei Lannister",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon of King's Landing"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon of King's Landing"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Queen"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Light of the West"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Queen Dowager"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Queen Regent"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Protector of the Realm"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lady of Casterly Rock"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Shield of Lannisport"
+            }],
+            "family": {
+                "father": "Tywin Lannister",
+                "mother": "Joanna Lannister",
+                "sibling(s)": [
+                    "Jaime Lannister",
+                    "Tyrion Lannister"
+                ],
+                "child(ren)": [
+                    "Joffrey Baratheon",
+                    "Myrcella Baratheon",
+                    "Tommen Baratheon"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Robert Baratheon",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Jaime Lannister"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Lancel Lannister"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Osmund Kettleblack"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Osfryd Kettleblack"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Osney Kettleblack"
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Taena Merryweather"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Emerald green",
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "266 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            }
+        },
+        "Chayle": {
+            "name": "Chayle",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Faith of the Seven"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Septon"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Theon Greyjoy"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            }
+        },
+        "Cohollo": {
+            "name": "Cohollo",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Drogo"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Bloodrider of Khal Drogo"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": null,
+                "date": "298 AC or 299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Aggo"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Daenerys Targaryen": {
+            "name": "Daenerys Targaryen",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 3,
+                "alias": "Dany"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 61,
+                "alias": "Silver Lady"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 68,
+                "alias": "The dragon's daughter"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 27,
+                "alias": "Dragonmother"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 48,
+                "alias": "Bride of fire"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 48,
+                "alias": "Daughter of death"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 48,
+                "alias": "Slayer of lies"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 48,
+                "alias": "Child of three"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 23,
+                "alias": "The whore of Westeros"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 42,
+                "alias": "Mhysa"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 35,
+                "alias": "The prince that was promised"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 6,
+                "alias": "The silver queen"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 22,
+                "alias": "Breaker of Chains"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 22,
+                "alias": "Aegon the Conqueror with teats"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 22,
+                "alias": "Azor Ahai returned"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 25,
+                "alias": "The dragon queen"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 0,
+                "alias": "The queen across the waters"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Princess of Dragonstone"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Queen of the Seven Kingdoms"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Daenerys Stormborn, the Unburnt, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men, Khaleesi of Great Grass Sea, Breaker of Shackles, and Mother of Dragons"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Protector of the Realm"
+            }],
+            "family": {
+                "father": "Aerys II Targaryen",
+                "mother": "Rhaella Targaryen",
+                "sibling(s)": [
+                    "Aegon Targaryen (son of Aerys II)",
+                    "Daeron Targaryen (son of Aerys II)",
+                    "Jaehaerys Targaryen (son of Aerys II)",
+                    "Rhaegar Targaryen",
+                    "Shaena Targaryen",
+                    "Viserys Targaryen"
+                ],
+                "child(ren)": [
+                    "Rhaego"
+                ],
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Khal Drogo",
+                    "details": {
+                        "type": "Political",
+                        "forced": true
+                    }
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Hizdahr zo Loraq",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Daario Naharis"
+                }]
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Free Cities"
+            }, {
+                "book": null,
+                "chapter": null,
+                "culture": "Dothraki"
+            }, {
+                "book": null,
+                "chapter": null,
+                "culture": "Ghiscari"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Violet",
+                "hair color": "Silver-gold"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "Dragonstone",
+                "date": "284 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Daeron I Targaryen": {
+            "name": "Daeron Targaryen",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 5,
+                "alias": "Boy King"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 54,
+                "alias": "The Young Dragon"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 23,
+                "alias": "Daeron the Dragon"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "King of the Andals, the Rhoynar, and the First Men"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Protector of the Realm"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Prince of Dragonstone"
+            }],
+            "family": {
+                "father": "Aegon III Targaryen",
+                "mother": "Daenaera Velaryon",
+                "sibling(s)": [
+                    "Baelor I Targaryen",
+                    "Daena Targaryen",
+                    "Elaena Targaryen",
+                    "Rhaena Targaryen (daughter of Aegon III)"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "King's Landing",
+                "date": "143 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Dorne",
+                "location": null,
+                "date": "161 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Desmond": {
+            "name": "Desmond",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 6
+            }
+        },
+        "Donnis": {
+            "name": "Donnis",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Drogo": {
+            "name": "Drogo",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Great Rider"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Great Khal"
+            }],
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Khal"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Khalakka"
+            }],
+            "family": {
+                "father": "Bharbo",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": [
+                    "Rhaego"
+                ],
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Daenerys Targaryen",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": "Onyx",
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": null,
+                "date": "~267 AC"
+            },
+            "death": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": "Lhazar",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Daenerys Targaryen"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Eddard Stark": {
+            "name": "Eddard Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 2,
+                "alias": "Ned"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The Quiet Wolf"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 62,
+                "alias": "The Ned"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Winterfell"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Warden of the North"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Hand of the King"
+            }],
+            "family": {
+                "father": "Rickard Stark",
+                "mother": "Lyarra Stark",
+                "sibling(s)": [
+                    "Brandon Stark",
+                    "Benjen Stark",
+                    "Lyanna Stark"
+                ],
+                "child(ren)": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Jon Snow",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Sansa Stark"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Catelyn Stark",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Wylla"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Ashara Dayne"
+                }]
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Dark grey",
+                "hair color": "Brown"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "263 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Ilyn Payne"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 6
+            }
+        },
+        "Elia Martell": {
+            "name": "Elia Martell",
+            "alias(es)": [{
+                "book": "A Clash of Kings",
+                "chapter": 63,
+                "alias": "Elia of Dorne"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Martell"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Martell"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Targaryen"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Princess"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Doran Martell",
+                    "Mors Martell (brother of Doran)",
+                    "Oberyn Martell",
+                    "Olyvar Martell"
+                ],
+                "child(ren)": [
+                    "Aegon Targaryen (son of Rhaegar)",
+                    "Rhaenys Targaryen (daughter of Rhaegar)"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Rhaegar Targaryen",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Rhoynar",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dornishmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Black",
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "Dorne",
+                "location": "Sunspear",
+                "date": "256 AC or 257 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "283 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Gregor Clegane"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Farlen": {
+            "name": "Farlen",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Kennelmaster"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Theon Greyjoy"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Gared": {
+            "name": "Gared",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "allegiance": "Night's Watch"
+                }
+            ],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westerosi"
+            }],
+            "religion": null,
+            "physical description":{
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": null,
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Eddard Stark"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Haggo": {
+            "name": "Haggo",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Drogo"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Bloodrider of Khal Drogo"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": null,
+                "date": "298 AC or 299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Rakharo"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Harwin": {
+            "name": "Harwin",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Brotherhood Without Banners"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }],
+            "family": {
+                "father": "Hullen",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": null,
+                "date": "271 AC or later"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "High Septon (fat one)": {
+            "name": null,
+            "alias(es)": [{
+                "book": "A Feast for Crows",
+                "chapter": 8,
+                "alias": "The fat one"
+            }],
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Faith of the Seven"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "High Septon"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Father of the Faithful"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "His High Holiness"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Shepherd of the Faithful"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Voice of the Seven on Earth"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": null,
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": "Grey"
+            },
+            "birth": null,
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Hullen": {
+            "name": "Hullen",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Master of horse at Winterfell"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": [
+                    "Harwin"
+                ],
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Illyrio Mopatis": {
+            "name": "Illyrio Mopatis",
+            "alias(es)": [{
+                "book": "A Dance with Dragons",
+                "chapter": 1,
+                "alias": "The cheesemonger"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 1,
+                "alias": "The lord of cheese"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 24,
+                "alias": "The fat man"
+            }],
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Targaryen"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Magister of the Free City of Pentos"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Serra",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Pentoshi"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": "Yellow"
+            },
+            "birth": {
+                "continent": "Essos",
+                "region": "Pentos",
+                "location": null,
+                "date": null
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Jaime Lannister": {
+            "name": "Jaime Lannister",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 5,
+                "alias": "Kingslayer"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 5,
+                "alias": "The Lion of Lannister"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 28,
+                "alias": "The golden man"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 44,
+                "alias": "Cripple"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 8,
+                "alias": "The Young Lion"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 27,
+                "alias": "Goldenhand"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Lannister"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Kingsguard"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Warden of the East"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord Commander of the Kingsguard"
+            }],
+            "family": {
+                "father": "Tywin Lannister",
+                "mother": "Joanna Lannister",
+                "sibling(s)": [
+                    "Cersei Lannister",
+                    "Tyrion Lannister"
+                ],
+                "child(ren)": [
+                    "Joffrey Baratheon",
+                    "Myrcella Baratheon",
+                    "Tommen Baratheon"
+                ],
+                "spouse(s)": null,
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Cersei Lannister"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Green",
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "266 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            }
+        },
+        "Jeor Mormont": {
+            "name": "Jeor Mormont",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 19,
+                "alias": "The Old Bear"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 23,
+                "alias": "Old Lord Crow"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Mormont"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Mormont"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Night's Watch"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord Commander of the Night's Watch"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Bear Island"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": ["Maege Mormont"],
+                "child(ren)": ["Jorah Mormont"],
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": "Grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Bear Island",
+                "date": "230 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Beyond the Wall",
+                "location": "Craster's Keep",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Rast"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Jeyne Poole": {
+            "name": "Jeyne Poole",
+            "alias(es)": [{
+                "book": "A Storm of Swords",
+                "chapter": 72,
+                "alias": "Arya Stark"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 41,
+                "alias": "Lady Arya"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Poole"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Poole"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Bolton"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Lady of Winterfell"
+            }],
+            "family": {
+                "father": "Vayon Poole",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Ramsay Bolton",
+                    "details": {
+                        "type": "Political",
+                        "forced": true
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Brown",
+                "hair color": "Dark"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "286 AC or 287 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Joanna Lannister": {
+            "name": "Joanna Lannister",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Lannister"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lady of Casterly Rock"
+            }],
+            "family": {
+                "father": "Jason Lannister (son of Gerold)",
+                "mother": "Marla Prester",
+                "sibling(s)": ["Stafford Lannister"],
+                "child(ren)": [
+                    "Cersei Lannister",
+                    "Jaime Lannister",
+                    "Tyrion Lannister"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Tywin Lannister",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Aerys II Targaryen"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "244 AC - 252 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "273 AC",
+                "by": {
+                    "type": "Nature",
+                    "name": "Childbirth"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Joffrey Baratheon": {
+            "name": "Joffrey Baratheon",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 4,
+                "alias": "Joff"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 16,
+                "alias": "Joffrey the Illborn"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 0,
+                "alias": "The King on the Iron Throne"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 53,
+                "alias": "Robert the Second"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 53,
+                "alias": "Aerys the Third"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 8,
+                "alias": "Joffy"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 11,
+                "alias": "The Young Usurper"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 19,
+                "alias": "Joffrey-called-Baratheon"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon of King's Landing"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon of King's Landing"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "King of the Andals, the Rhoynar, and the First Men"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Protector of the Realm"
+            }],
+            "family": {
+                "father": "Robert Baratheon",
+                "mother": "Cersei Lannister",
+                "sibling(s)": [
+                    "Myrcella Baratheon",
+                    "Tommen Baratheon"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Margaery Tyrell",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Green",
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "286 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "300 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Olenna Tyrell"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            }
+        },
+        "Jon Arryn": {
+            "name": "Jon Arryn",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Arryn"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Arryn"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Keeper of the Gates of the Moon"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of the Eyrie"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Defender of the Vale"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Warden of the East"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Hand of the King"
+            }],
+            "family": {
+                "father": "Jasper Arryn",
+                "mother": null,
+                "sibling(s)": [
+                    "Alys Arryn",
+                    "Ronnel Arryn (son of Jasper)"
+                ],
+                "child(ren)": ["Robert Arryn"],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Jeyne Royce",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Rowena Arryn",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Lysa Tully",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Valemen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Blue",
+                "hair color": "Blond"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Vale",
+                "location": "The Eyrie",
+                "date": "218 AC - 220 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Petyr Baelish"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Jon Snow": {
+            "name": "Jon Snow",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 19,
+                "alias": "Lord Snow"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 7,
+                "alias": "The Snow of Winterfell"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 15,
+                "alias": "The crow-come-over"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 15,
+                "alias": "The Bastard of Winterfell"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 5,
+                "alias": "The Great Lord Snow"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 45,
+                "alias": "The Black Bastard of the Wall"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 51,
+                "alias": "Lord Crow"
+            }],
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Night's Watch"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Lord Commander of the Night's Watch"
+            }],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Wylla",
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Ygritte"
+                }]
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": "Dark-brown"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": null,
+                "location": null,
+                "date": "283 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 10
+            }
+        },
+        "Jorah Mormont": {
+            "name": "Jorah Mormont",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 23,
+                "alias": "The exile knight"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 54,
+                "alias": "Jorah the Andal"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 61,
+                "alias": "Iron Lord"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 64,
+                "alias": "The Andal"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 40,
+                "alias": "Ser Bezoar"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Mormont"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Mormont"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Targaryen"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Queensguard"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Second Sons"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Bear Island"
+            }],
+            "family": {
+                "father": "Jeor Mormont",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Lynesse Hightower",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Bear Island",
+                "date": "254 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Jory Cassel": {
+            "name": "Jory Cassel",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Cassel"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Cassel"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Captain of the guard at Winterfell"
+            }],
+            "family": {
+                "father": "Martyn Cassel",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "273 AC or before"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Jaime Lannister"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Lew (guard)": {
+            "name": "Lew",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Luwin": {
+            "name": "Luwin",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "The Citadel"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Maester at Winterfell"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westerosi"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": "Grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": null,
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 6
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 6
+            }
+        },
+        "Lyanna Stark": {
+            "name": "Lyanna Stark",
+            "alias(es)": [{
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The She-Wolf"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The Wolf Maid"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 39,
+                "alias": "Lya"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 24,
+                "alias": "Wolf girl"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": "Rickard Stark",
+                "mother": "Lyarra Stark",
+                "sibling(s)": [
+                    "Brandon Stark",
+                    "Eddard Stark",
+                    "Benjen Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": "Brown"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "266 AC or 267 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Dorne",
+                "location": "Tower of Joy",
+                "date": "283 AC",
+                "by": null
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Lysa Arryn": {
+            "name": "Lysa Arryn",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Lysa Tully"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Arryn"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Tully"
+            }, {
+                "book": null,
+                "chapter": null,
+                "house": "Baelish"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Arryn"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Tully"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Baelish"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lady of the Eyrie"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lady Regent of the Vale of Arryn"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lady of Harrenhal"
+            }],
+            "family": {
+                "father": "Hoster Tully",
+                "mother": "Minisa Whent",
+                "sibling(s)": [
+                    "Catelyn Stark",
+                    "Edmure Tully"
+                ],
+                "child(ren)": ["Robert Arryn"],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Jon Arryn",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Petyr Baelish",
+                    "details": {
+                        "type": "Love",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Rivermen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Blue",
+                "hair color": "Auburn"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "Riverrun",
+                "date": "266 AC - 268 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Vale",
+                "location": "The Eyrie",
+                "date": "300 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Petyr Baelish"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Mikken": {
+            "name": "Mikken",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Stygg"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Mordane": {
+            "name": "Mordane",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Faith of the Seven"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Septa"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westerosi"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": null,
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Moro": {
+            "name": "Moro",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Khal"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": ["Rhogoro"],
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Myrcella Baratheon": {
+            "name": "Myrcella Baratheon",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon of King's Landing"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon of King's Landing"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Princess"
+            }],
+            "family": {
+                "father": "Robert Baratheon",
+                "mother": "Cersei Lannister",
+                "sibling(s)": [
+                    "Joffrey Baratheon",
+                    "Tommen Baratheon"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Emerald green",
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "290 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Old Nan": {
+            "name": "Old Nan",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": null,
+                "region": null,
+                "location": null,
+                "date": "185 AC - 211 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Petyr Baelish": {
+            "name": "Petyr Baelish",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 8,
+                "alias": "Littlefinger"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 3,
+                "alias": "Lord Littlefinger"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baelish"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baelish"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Master of coin"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord Paramount of the Trident"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Harrenhal"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord Protector of the Eyrie and the Vale of Arryn"
+            }],
+            "family": {
+                "father": null,
+                "mother": "Alayne Baelish",
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Lysa Arryn",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Valemen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Grey-green",
+                "hair color": "Dark"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Vale",
+                "location": "The Fingers",
+                "date": "268 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Pycelle": {
+            "name": "Pycelle",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "The Citadel"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Grand Maester"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westerosi"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": "Snow-white"
+            },
+            "birth": {
+                "continent": null,
+                "region": null,
+                "location": null,
+                "date": "216 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "300 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Varys"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Qotho": {
+            "name": "Qotho",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Drogo"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Bloodrider of Khal Drogo"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": null,
+                "date": "298 AC or 299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Jorah Mormont"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Renly Baratheon": {
+            "name": "Renly Baratheon",
+            "alias(es)": [{
+                "book": null,
+                "chapter": null,
+                "alias": "The King in Highgarden"
+            }, {
+                "book": null,
+                "chapter": null,
+                "alias": "The King in the South"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Storm's End"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord Paramount of the Stormlands"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Master of laws"
+            }],
+            "family": {
+                "father": "Steffon Baratheon",
+                "mother": "Cassana Estermont",
+                "sibling(s)": [
+                    "Robert I Baratheon",
+                    "Stannis Baratheon"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Margaery Tyrell",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Loras Tyrell"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Stormlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Green",
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Stormlands",
+                "location": "Storm's End",
+                "date": "277 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Stormlands",
+                "location": "Storm's End",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Stannis Baratheon"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Rhaegar Targaryen": {
+            "name": "Rhaegar Targaryen",
+            "alias(es)": [{
+                "book": "A Dance with Dragons",
+                "chapter": 24,
+                "alias": "Silver prince"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The dragon prince"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 23,
+                "alias": "The last dragon"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 35,
+                "alias": "The prince that was promised"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Targaryen"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Prince of Dragonstone"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }],
+            "family": {
+                "father": "Aerys II Targaryen",
+                "mother": "Rhaella Targaryen",
+                "sibling(s)": [
+                    "Aegon Targaryen (son of Aerys II)",
+                    "Daenerys Targaryen",
+                    "Daeron Targaryen (son of Aerys II)",
+                    "Jaehaerys Targaryen (son of Aerys II)",
+                    "Shaena Targaryen",
+                    "Viserys Targaryen"
+                ],
+                "child(ren)": [
+                    "Aegon Targaryen (son of Rhaegar)",
+                    "Rhaenys Targaryen (daughter of Rhaegar)"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Elia Martell",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Deep purple",
+                "hair color": "Silver"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Stormlands",
+                "location": "Summerhall",
+                "date": "259 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "Ruby Ford",
+                "date": "283 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Robert Baratheon"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Rhaenys Targaryen (daughter of Rhaegar)": {
+            "name": "Rhaenys Targaryen",
+            "alias(es)": null,
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Targaryen"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Princess"
+            }],
+            "family": {
+                "father": "Rhaegar Targaryen",
+                "mother": "Elia Martell",
+                "sibling(s)": [
+                    "Aegon Targaryen (son of Rhaegar)"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Black",
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "Dragonstone",
+                "date": "280 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "283 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Gregor Clegane"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Rhogoro": {
+            "name": "Rhogoro",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Moro"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Khalakka"
+            }],
+            "family": {
+                "father": "Moro",
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Dothraki",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Dothraki"
+            }],
+            "religion": "Great Stallion",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": null,
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Rickard Stark": {
+            "name": "Rickard Stark",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Winterfell"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Warden of the North"
+            }],
+            "family": {
+                "father": "Edwyle Stark",
+                "mother": "Marna Locke",
+                "sibling(s)": null,
+                "child(ren)": [
+                    "Benjen Stark",
+                    "Brandon Stark",
+                    "Eddard Stark",
+                    "Lyanna Stark"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Lyarra Stark",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "230 AC - 250 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "King's Landing",
+                "date": "282 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Aerys II Targaryen"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Rickon Stark": {
+            "name": "Rickon Stark",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Prince"
+            }],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Catelyn Stark",
+                "sibling(s)": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Jon Snow",
+                    "Robb Stark",
+                    "Sansa Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Bright blue",
+                "hair color": "Auburn"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "295 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Robb Stark": {
+            "name": "Robb Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 24,
+                "alias": "Robb the Lord"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 56,
+                "alias": "The wolfling"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 63,
+                "alias": "The Young Wolf"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 11,
+                "alias": "Wolf king"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 11,
+                "alias": "The pup"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 24,
+                "alias": "Robb the boy"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 37,
+                "alias": "The Boy Wolf"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 20,
+                "alias": "The King Who Lost the North"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "King in the North"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Winterfell"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "King of the Trident"
+            }],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Catelyn Stark",
+                "sibling(s)": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Jon Snow",
+                    "Rickon Stark",
+                    "Sansa Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Jeyne Westerling",
+                    "details": {
+                        "type": "Love",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Blue",
+                "hair color": "Red-brown"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "283 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "The Twins",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Roose Bolton"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 10
+            }
+        },
+        "Robert Arryn": {
+            "name": "Robert Arryn",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 34,
+                "alias": "True Warden of the East"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 10,
+                "alias": "Sweetrobin"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Arryn"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Arryn"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of the Eyrie"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Defender of the Vale"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Warden of the East"
+            }],
+            "family": {
+                "father": "Jon Arryn",
+                "mother": "Lysa Arryn",
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Valemen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": null,
+                "hair color": "Brown"
+            },
+            "birth": {
+                "continent": null,
+                "region": null,
+                "location": null,
+                "date": "292 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Robert I Baratheon": {
+            "name": "Robert Baratheon",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 3,
+                "alias": "The Usurper"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 5,
+                "alias": "Demon of the Trident"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 20,
+                "alias": "The Whoremonger King"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 41,
+                "alias": "Rob"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The storm lord"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord Paramount of the Stormlands"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Storm's End"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "King of the Andals and the Rhoynar and the First Men"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Protector of the Realm"
+            }],
+            "family": {
+                "father": "Steffon Baratheon",
+                "mother": "Cassana Estermont",
+                "sibling(s)": [
+                    "Renly Baratheon",
+                    "Stannis Baratheon"
+                ],
+                "child(ren)": [
+                    "Barra",
+                    "Bella",
+                    "Edric Storm",
+                    "Gendry",
+                    "Joffrey Baratheon",
+                    "Mya Stone",
+                    "Myrcella Baratheon",
+                    "Tommen Baratheon"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Cersei Lannister",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Becca"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Delena Florent"
+                }, {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "lover": "Estermont (cousin of Robert)"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Stormlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Bright blue",
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Stormlands",
+                "location": "Storm's End",
+                "date": "262 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "298 AC",
+                "by": {
+                    "type": "Accident",
+                    "name": "Hunt accident"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 5
+            }
+        },
+        "Rodrik Cassel": {
+            "name": "Rodrik Cassel",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Cassel"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Cassel"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Master-at-arms at Winterfell"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Castellan of Winterfell"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }],
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": ["Beth Cassel"],
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": null,
+                "hair color": "White"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": null,
+                "date": "248 AC or before"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Rasmay Snow"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Sandor Clegane": {
+            "name": "Sandor Clegane",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "The Hound"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Dog"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Joffrey's dog"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Clegane"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Clegane"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "Kingsguard"
+            }],
+            "title(s)": null,
+            "family": {
+                "father": "Clegane (father of Gregor and Sandor)",
+                "mother": null,
+                "sibling(s)": ["Gregor Clegane"],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": null,
+            "physical description": {
+                "eye color": "Grey",
+                "hair color": "Dark"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": null,
+                "date": "270 AC or 271 AC"
+            },
+            "death": {
+                "continent": null,
+                "region": null,
+                "location": null,
+                "date": "300 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Feast for Crows",
+                "chapter": 9
+            }
+        },
+        "Sansa Stark": {
+            "name": "Sansa Stark",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 15,
+                "alias": "Wolf girl"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 29,
+                "alias": "Little bird"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 54,
+                "alias": "Jonquil"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 68,
+                "alias": "Alayne Stone"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 3,
+                "alias": "Lady Lannister"
+            }],
+            "gender": "Female",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Stark"
+            }, {
+                "book": null,
+                "chapter": null,
+                "house": "Lannister"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Lannister"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Arryn"
+            }, {
+                "book": null,
+                "chapter": null,
+                "allegiance": "House Baelish"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Princess"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lady of Winterfell"
+            }],
+            "family": {
+                "father": "Eddard Stark",
+                "mother": "Catelyn Stark",
+                "sibling(s)": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Jon Snow",
+                    "Rickon Stark",
+                    "Robb Stark"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Tyrion Lannister",
+                    "details": {
+                        "type": "Political",
+                        "forced": true
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "First Men",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Northmen"
+            }],
+            "religion": "Old Gods of the Forest",
+            "physical description": {
+                "eye color": "Deep blue",
+                "hair color": "Auburn"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Winterfell",
+                "date": "286 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Stannis Baratheon": {
+            "name": "Stannis Baratheon",
+            "alias(es)": [{
+                "book": "A Clash of Kings",
+                "chapter": 0,
+                "alias": "The King in the Narrow Sea"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 54,
+                "alias": "The King of the Painted Table"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 60,
+                "alias": "The dark lord"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 72,
+                "alias": "The King of Dragonstone"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 0,
+                "alias": "The King at the Wall"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 10,
+                "alias": "Azor Ahai reborn/come again"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 36,
+                "alias": "The prince that was promised"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon"
+            }, {
+                "book": null,
+                "chapter": null,
+                "house": "Baratheon of Dragonstone"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Dragonstone"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Master of Ships"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Storm's End"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "King of the Andals, the Rhoynar, and the First Men"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Protector of the Realm"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "King of Westeros"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Commander of the Nightfort"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }],
+            "family": {
+                "father": "Steffon Baratheon",
+                "mother": "Cassana Estermont",
+                "sibling(s)": [
+                    "Renly Baratheon",
+                    "Robert I Baratheon"
+                ],
+                "child(ren)": ["Shireen Baratheon"],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Selyse Florent",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Stormlander"
+            }],
+            "religion": "R'hllor",
+            "physical description": {
+                "eye color": "Dark blue",
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Stormlands",
+                "location": "Storm's End",
+                "date": "264 AC"
+            },
+            "death": null,
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Theon Greyjoy": {
+            "name": "Theon Greyjoy",
+            "alias(es)": [{
+                "book": "A Clash of Kings",
+                "chapter": 56,
+                "alias": "Prince of Fools"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 66,
+                "alias": "Theon Turncloak"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 69,
+                "alias": "The squid prince"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 12,
+                "alias": "Reek (III)"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 32,
+                "alias": "Rightful Lord of the Iron Islands"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 46,
+                "alias": "Theon Kinslayer"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 51,
+                "alias": "The Prince of Stink"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Greyjoy"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Greyjoy"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Stark"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Lord of the Iron Islands"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Prince of Winterfell"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Captain of the Sea Bitch"
+            }],
+            "family": {
+                "father": "Balon Greyjoy",
+                "mother": "Alannys Harlaw",
+                "sibling(s)": [
+                    "Asha Greyjoy",
+                    "Maron Greyjoy",
+                    "Rodrik Greyjoy"
+                ],
+                "child(ren)": ["Shireen Baratheon"],
+                "spouse(s)": null,
+                "lover(s)": [{
+                    "book": null,
+                    "chapter": null,    
+                    "lover": "Barth (brewer)"
+                }, {
+                    "book": null,
+                    "chapter": null,    
+                    "lover": "Kyra"
+                }, {
+                    "book": null,
+                    "chapter": null,    
+                    "lover": "Bessa (Winterfell)"
+                }, {
+                    "book": null,
+                    "chapter": null,    
+                    "lover": "Miller's wife from Acorn Water"
+                }, {
+                    "book": null,
+                    "chapter": null,    
+                    "lover": "Captain's daughter"
+                }]
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Ironmen"
+            }],
+            "religion": "Drowned God",
+            "physical description": {
+                "eye color": null,
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Iron Islands",
+                "location": "Pyke",
+                "date": "278 AC or 279 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Tommen Baratheon": {
+            "name": "Tommen Baratheon",
+            "alias(es)": [{
+                "book": "A Dance with Dragons",
+                "chapter": 0,
+                "alias": "The Boy King"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 19,
+                "alias": "Tommen-called-Baratheon"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Baratheon of King's Landing"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Baratheon of King's Landing"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Prince"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "King of the Andals, the Rhoynar, and the First Men"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Protector of the Realm"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Storm's End"
+            }],
+            "family": {
+                "father": "Robert I Baratheon",
+                "mother": "Cersei Lannister",
+                "sibling(s)": [
+                    "Joffrey Baratheon",
+                    "Myrcella Baratheon"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Margaery Tyrell",
+                    "details": {
+                        "type": "Political",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": null
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Crownlander"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Emerald green",
+                "hair color": "White-blond"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "291 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Tyrion Lannister": {
+            "name": "Tyrion Lannister",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 4,
+                "alias": "The Imp"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 25,
+                "alias": "Halfman"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 42,
+                "alias": "Boyman"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 62,
+                "alias": "Giant of Lannister"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 70,
+                "alias": "Lord Imp"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 38,
+                "alias": "Lord Tywin's Doom"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 8,
+                "alias": "Yollo"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 8,
+                "alias": "Hugor Hill"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 14,
+                "alias": "Hugor Halfwit"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 33,
+                "alias": "No-Nose"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Freak"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 36,
+                "alias": "Redhands"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 40,
+                "alias": "Ser Imp"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 20,
+                "alias": "Monkey demon"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Lannister"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "Second Sons"
+            }],
+            "title(s)": [{
+                "book": null,
+                "chapter": null,
+                "title": "Acting Hand of the King"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Master of Coin"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Lord of Casterly Rock"
+            }],
+            "family": {
+                "father": "Tywin Lannister",
+                "mother": "Joanna Lannister",
+                "sibling(s)": [
+                    "Cersei Lannister",
+                    "Jaime Lannister"
+                ],
+                "child(ren)": null,
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Tysha",
+                    "details": {
+                        "type": "Love",
+                        "forced": false
+                    }
+                }, {
+                    "book": null,
+                    "chapter": null,
+                    "spouse": "Sansa Stark",
+                    "details": {
+                        "type": "Political",
+                        "forced": true
+                    }
+                }],
+                "lover(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Shae"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Green and Black",
+                "hair color": "Blond"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "273 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 4
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 9
+            }
+        },
+        "Tywin Lannister": {
+            "name": "Tywin Lannister",
+            "alias(es)": [{
+                "book": "A Storm of Swords",
+                "chapter": 24,
+                "alias": "The great lion of the rock"
+            }, {
+                "book": "A Feast for Crows",
+                "chapter": 2,
+                "alias": "The Old Lion"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Lannister"
+            }],
+            "allegiance(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "allegiance": "House Lannister"
+            }],
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Ser"
+            }, {
+                "book": null,
+                "chapter": null,
+                "title": "Hand of the King"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of Casterly Rock"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Shield of Lannisport"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Warden of the West"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Savior of the City"
+            }],
+            "family": {
+                "father": "Tytos Lannister",
+                "mother": "Jeyne Marbrand",
+                "sibling(s)": [
+                    "Genna Lannister",
+                    "Kevan Lannister",
+                    "Tygett Lannister",
+                    "Gerion Lannister"
+                ],
+                "child(ren)": [
+                    "Cersei Lannister",
+                    "Jaime Lannister",
+                    "Tyrion Lannister"
+                ],
+                "spouse(s)": [{
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "spouse": "Joanna Lannister",
+                    "details": {
+                        "type": "Love",
+                        "forced": false
+                    }
+                }],
+                "lover(s)": [{
+                    "book": null,
+                    "chapter": null,
+                    "lover": "Shae"
+                }]
+            },
+            "race": "Andal",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Westernmen"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Green",
+                "hair color": "Golden"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Westerlands",
+                "location": "Casterly Rock",
+                "date": "242 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "300 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Tyrion Lannister"
+                }
+            },
+            "first appearance": null,
+            "last appearance": null
+        },
+        "Viserys Targaryen": {
+            "name": "Viserys Targaryen",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 3,
+                "alias": "King Viserys III"
+            }, {
+                "book": "A Clash of Kings",
+                "chapter": 2,
+                "alias": "The Beggar King"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 36,
+                "alias": "Khal Rhae Mhar"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 36,
+                "alias": "Khal Rhaggat"
+            }],
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Targaryen"
+            }],
+            "allegiance(s)": null,
+            "title(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "King of the Andals and the Rhoynar and the First Men"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Lord of the Seven Kingdoms"
+            }, {
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "title": "Protector of the Realm"
+            }],
+            "family": {
+                "father": "Aerys II Targaryen",
+                "mother": "Rhaella Targaryen",
+                "sibling(s)": [
+                    "Aegon Targaryen (son of Aerys II)",
+                    "Daenerys Targaryen",
+                    "Daeron Targaryen (son of Aerys II)",
+                    "Jaehaerys Targaryen (son of Aerys II)",
+                    "Rhaegar Targaryen",
+                    "Shaena Targaryen"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": "Valyrian",
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Free Cities"
+            }],
+            "religion": "Faith of the Seven",
+            "physical description": {
+                "eye color": "Lilac",
+                "hair color": "Silver-gold"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Crownlands",
+                "location": "King's Landing",
+                "date": "276 AC"
+            },
+            "death": {
+                "continent": "Essos",
+                "region": "Dothraki Sea",
+                "location": "Vaes Dothrak",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Khal Drogo"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 3
+            }
+        },
+        "Waymar Royce": {
+            "name": "Waymar Royce",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "house": "Royce"
+            }],
+            "allegiance(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "allegiance": "Night's Watch"
+                }
+            ],
+            "title(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "title": "Ser"
+                }
+            ],
+            "family": {
+                "father": "Yohn Royce",
+                "mother": null,
+                "sibling(s)": [
+                    "Andar Royce",
+                    "Robar Royce",
+                    "Ysilla Royce"
+                ],
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Valemen"
+            }],
+            "religion": null,
+            "physical description":{
+                "eye color": "Grey",
+                "hair color": null
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The Vale",
+                "location": "Runestone",
+                "date": "278 AC or 279 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Beyond the Wall",
+                "location": "The Haunted Forest",
+                "date": "297 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            }
+        },
+        "Will": {
+            "name": "Will",
+            "alias(es)": null,
+            "gender": "Male",
+            "house(s)": null,
+            "allegiance(s)": [
+                {
+                    "book": "A Game of Thrones",
+                    "chapter": 0,
+                    "allegiance": "Night's Watch"
+                }
+            ],
+            "title(s)": null,
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": null,
+                "child(ren)": null,
+                "spouse(s)": null,
+                "lover(s)": null
+            },
+            "race": null,
+            "culture(s)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "culture": "Rivermen"
+            }],
+            "religion": null,
+            "physical description":{
+                "eye color": null,
+                "hair color": null
+            },
+            "birth": {
+                "continent": null,
+                "region": null,
+                "location": null,
+                "date": null
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "Beyond the Wall",
+                "location": "The Haunted Forest",
+                "date": "297 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 0
+            }
+        }
+    },
+    "direwolves": {
+        "Ghost": {
+            "name": "Ghost",
+            "alias(es)": [{
+                "book": "A Clash of Kings",
+                "chapter": 13,
+                "alias": "The white wolf"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 9,
+                "alias": "The white that has no voice"
+            }],
+            "gender": "Male",
+            "owner": "Jon Snow",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Grey Wind",
+                    "Lady",
+                    "Nymeria",
+                    "Shaggydog",
+                    "Summer"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Red",
+                "hair color": "White"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Grey Wind": {
+            "name": "Grey Wind",
+            "alias(es)": null,
+            "gender": "Male",
+            "owner": "Robb Stark",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Ghost",
+                    "Lady",
+                    "Nymeria",
+                    "Shaggydog",
+                    "Summer"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Golden",
+                "hair color": "Smoke grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "The Twins",
+                "date": "299 AC",
+                "by": {
+                    "type": "Character",
+                    "name": null
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Lady": {
+            "name": "Lady",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "The sister they had lost"
+            }],
+            "gender": "Female",
+            "owner": "Sansa Stark",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Nymeria",
+                    "Shaggydog",
+                    "Summer"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Golden",
+                "hair color": "Grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": {
+                "continent": "Westeros",
+                "region": "The Riverlands",
+                "location": "Darry",
+                "date": "298 AC",
+                "by": {
+                    "type": "Character",
+                    "name": "Eddard Stark"
+                }
+            },
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Nymeria (direwolf)": {
+            "name": "Nymeria",
+            "alias(es)": [{
+                "book": "A Dance with Dragons",
+                "chapter": 3,
+                "alias": "The little sister"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 45,
+                "alias": "The night wolf"
+            }],
+            "gender": "Female",
+            "owner": "Arya Stark",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Lady",
+                    "Shaggydog",
+                    "Summer"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Dark gorlden",
+                "hair color": "Grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 7
+            }
+        },
+        "Shaggydog": {
+            "name": "Shaggydog",
+            "alias(es)": [{
+                "book": "A Game of Thrones",
+                "chapter": 0,
+                "alias": "Shaggy"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 9,
+                "alias": "The angry brother with the hot green eyes"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 3,
+                "alias": "The black brother"
+            }],
+            "gender": "Male",
+            "owner": "Rickon Stark",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Lady",
+                    "Nymeria",
+                    "Summer"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Bright green",
+                "hair color": "Black"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            }
+        },
+        "Summer": {
+            "name": "Summer",
+            "alias(es)": [{
+                "book": "A Storm of Swords",
+                "chapter": 9,
+                "alias": "Prince of the green"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 9,
+                "alias": "Prince of the wolfswood"
+            }, {
+                "book": "A Storm of Swords",
+                "chapter": 9,
+                "alias": "Prince of the woods"
+            }, {
+                "book": "A Dance with Dragons",
+                "chapter": 3,
+                "alias": "The grey brother who smelled of summer"
+            }],
+            "gender": "Male",
+            "owner": "Bran Stark",
+            "family": {
+                "father": null,
+                "mother": null,
+                "sibling(s)": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Lady",
+                    "Nymeria",
+                    "Shaggydog"
+                ],
+                "child(ren)": null,
+                "lover(s)": null
+            },
+            "physical description": {
+                "eye color": "Golden",
+                "hair color": "Smoke grey"
+            },
+            "birth": {
+                "continent": "Westeros",
+                "region": "The North",
+                "location": "Outside Winterfell",
+                "date": "298 AC"
+            },
+            "death": null,
+            "first appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 1
+            },
+            "last appearance": {
+                "book": "A Game of Thrones",
+                "chapter": 8
+            }
+        }
+    }
+}]

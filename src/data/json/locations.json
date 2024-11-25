@@ -1,0 +1,24 @@
+[{
+    "continents": [{
+        "name": "Westeros",
+        "regions": [{
+            "name": "Beyond the Wall",
+            "capital": null,
+            "culture": "Free Folk",
+            "regligion": "Old Gods of the Forest",
+            "locations": [
+                "The Haunted Forest"
+            ]
+        },
+        {
+            "name": "The North",
+            "capital": "Winterfell",
+            "culture": "Northmen",
+            "religion": "Old Gods of the Forest",
+            "locations": [
+                "Outside Winterfell",
+                "Winterfell"
+            ]
+        }]
+    }]
+}]

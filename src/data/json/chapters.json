@@ -1,0 +1,49 @@
+[{
+    "book": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "published": "1996-08-06",
+    "pages": 694,
+    "chapters": [
+        {
+            "title": "Prologue",
+            "number": 0,
+            "pov": "Will",
+            "pages": 11,
+            "words": null,
+            "year": 297,
+            "theme(s)": [],
+            "characters": {
+                "appearing": [
+                    "Will",
+                    "Gared",
+                    "Waymar Royce"
+                ],
+                "mentioned": []
+            },
+            "locations": {
+                "appearing": ["The Haunted Forest"],
+                "mentioned": []
+            },
+            "groups": {
+                "appearing": [
+                    "Night's Watch",
+                    "The Others"
+                ],
+                "mentioned": []
+            },
+            "events": {
+                "births": [],
+                "deaths": [
+                    "Waymar Royce"
+                ],
+                "marriages": [],
+                "battles": [],
+                "prophecies": {
+                    "announced": [],
+                    "mentioned": [],
+                    "fulfilled": []
+                }
+            }
+        }
+    ]
+}]

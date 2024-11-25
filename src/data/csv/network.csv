@@ -1,0 +1,412 @@
+source_name,source_titles,source_houses,source_gender,source_age,source_culture,target_name,target_titles,target_houses,target_gender,target_age,target_culture,direct_lines,direct_words,indirect_lines,indirect_words,mentions,talk_about
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,1,7,5,23,0,0
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,1,2
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,1,7,5,23,0,0
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,1,3
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Jon Snow,,,Male,11 - 20,Northmen,22,202,1,3,2,2
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Mordane,['Septa'],,Female,,Westerosi,2,8,1,5,2,2
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,1,5,2,8,0,0
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Nymeria (direwolf),,,,,,2,4,0,0,0,0
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,0,1
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,3,17,3,13,1,1
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,0,0,0,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Daeron I Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,11 - 20,Crownlands,0,0,0,0,1,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Ghost,,,,,,0,0,0,0,0,2
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Jon Snow,,,Male,11 - 20,,15,267,0,0,0,0
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,0,1
+Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,1,14,0,0,0,0
+Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,0,0,1,14,0,0
+Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,0,1
+Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,1,14,1,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,0,0,1,1,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Desmond,,,Male,,Northmen,0,0,5,16,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,8,55,1,3,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Gared,,,Male,51 - 60,Westeros,0,0,0,0,1,2
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Grey Wind,,,,,,0,0,0,0,0,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,0,0,5,16,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,0,0,5,16,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,1,1,0,0,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Jon Snow,,,Male,11 - 20,Northmen,0,0,5,16,1,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,0,0,5,16,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Lady,,,,,,0,0,0,0,0,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Nymeria (direwolf),,,,,,0,0,0,0,0,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,5,16,1,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,1,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Shaggydog,,,,,,0,0,0,0,0,1
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Summer,,,,,,2,17,0,0,0,2
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,1,3,4,13,0,0
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,0,0,0,0,1,3
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,3,8
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Brandon Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,2,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Brynden Tully,['Warden'],['Tully'],Male,51 - 60,Rivermen,0,0,0,0,1,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,0,0,1,3
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,47,761,2,11,1,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,0,0,0,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,0,3
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,0,0,0,0,4,4
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Jon Snow,,,Male,11 - 20,Northmen,8,87,0,0,1,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Luwin,['Maester'],,Male,,Westeros,4,31,18,225,1,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,4,6
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,0,0,0,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Pycelle,['Grand Maester'],,Male,81 - 90,Westerosi,0,0,0,0,1,1
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,1,4
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,0,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,0,0,0,0,0,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,5,8
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,2,4
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,0,0,1,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,14,293,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,2,6
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,14,293,0,0,0,0
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,0,0,0,0,1,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Lyanna Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,1,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,1,3
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Renly Baratheon,"['Lord', 'Master']",['Baratheon'],Male,21 - 30,Stormlander,0,0,0,0,1,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,4,6
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,Stannis Baratheon,"['Lord', 'Master']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,1,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,1,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Grey Wind,,,,,,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,8,97,0,0
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Lady,,,,,,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,1,11,7,86,0,0
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Nymeria (direwolf),,,,,,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Shaggydog,,,,,,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Summer,,,,,,0,0,0,0,0,1
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,1,11,7,86,0,0
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,8,97,0,0,0,0
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,Drogo,['Khal'],,Male,31 - 40,Dothraki,0,0,0,0,0,1
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,Illyrio Mopatis,['Magister'],,Male,,Pentoshi,2,7,0,0,0,1
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,Jorah Mormont,['Ser'],['Mormont'],Male,41 - 50,Northmen,0,0,0,0,0,2
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Free Cities,3,18,0,0,0,0
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,2,22,2,7,0,0
+Desmond,,,Male,,Northmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,2,15,0,0
+Desmond,,,Male,,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,2,15,0,0,0,0
+Desmond,,,Male,,Northmen,Luwin,['Maester'],,Male,,Westeros,0,0,0,0,1,2
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,0,0,1,5,1,3
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,4,4
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,12,408,8,107,2,4
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Brandon Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,3,3
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Brynden Tully,['Warden'],['Tully'],Male,51 - 60,Rivermen,0,0,0,0,0,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,48,967,13,188,2,4
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,1,5,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Desmond,,,Male,,Northmen,7,115,10,221,0,0
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Farlen,['Kennelmaster'],,Male,,Northmen,0,0,0,0,0,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Gared,,,Male,51 - 60,Westeros,0,0,0,0,0,3
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Grey Wind,,,,,,0,0,0,0,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,2,21,11,238,0,0
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,2,21,11,238,1,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,1,5,0,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,1,5,3,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,0,0,0,0,5,6
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Jon Snow,,,Male,11 - 20,Northmen,6,40,7,219,2,6
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,4,53,10,221,1,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Lady,,,,,,0,0,0,0,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Luwin,['Maester'],,Male,,Westeros,10,187,20,355,3,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Lyanna Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,1,3
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,3,6
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Mance Rayder,['King'],,Male,31 - 40,Free Folk,0,0,0,0,1,2
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,1,5,0,2
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Nymeria (direwolf),,,,,,0,0,0,0,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Old Nan,,,Female,81 - 90,Northmen,0,0,0,0,2,2
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Rickard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,1,3
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,1,5,1,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,8,182,6,82,5,9
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,0,0,0,0,0,7
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,26,388,0,0,8,9
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Rodrik Cassel,"['Ser', 'Master-at-Arms']",['Cassel'],Male,51 - 60,Northmen,0,0,0,0,1,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,0,0,1,5,0,0
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,1,5,3,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Shaggydog,,,,,,0,0,0,0,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Summer,,,,,,0,0,0,0,0,5
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,2,21,11,238,0,0
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,1,5,0,2
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,0,0,1,5,0,1
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,Tywin Lannister,"['Lord', 'Shield', 'Warden']",['Lannister'],Male,51 - 60,Westermen,0,0,0,0,0,1
+Gared,,,Male,51 - 60,Westeros,Jeor Mormont,['Lord Commander'],['Mormont'],Male,51 - 60,Northmen,0,0,0,0,1,1
+Gared,,,Male,51 - 60,Westeros,Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,13,343,0,0,0,0
+Gared,,,Male,51 - 60,Westeros,Will,,,Male,,Rivermen,1,4,12,339,2,1
+Harwin,['Ser'],,Male,21 - 30,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Desmond,,,Male,,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Jon Snow,,,Male,11 - 20,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,0,0,1,5,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,1,5,0,0,0,0
+Harwin,['Ser'],,Male,21 - 30,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,0,0,1,5,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Desmond,,,Male,,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Grey Wind,,,,,,0,0,0,0,0,2
+Hullen,['Master of Horse'],,Male,,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Jon Snow,,,Male,11 - 20,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,1,13,2,15,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Lady,,,,,,0,0,0,0,0,2
+Hullen,['Master of Horse'],,Male,,Northmen,Nymeria (direwolf),,,,,,0,0,0,0,0,2
+Hullen,['Master of Horse'],,Male,,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,2,20,1,8,0,0
+Hullen,['Master of Horse'],,Male,,Northmen,Shaggydog,,,,,,0,0,0,0,0,2
+Hullen,['Master of Horse'],,Male,,Northmen,Summer,,,,,,0,0,0,0,0,2
+Hullen,['Master of Horse'],,Male,,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,1,13,2,15,0,0
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Cohollo,['Bloodrider'],,Male,,Dothraki,0,0,0,0,0,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,6,131,7,175,0,2
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Drogo,['Khal'],,Male,31 - 40,Dothraki,0,0,0,0,5,7
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Haggo,['Bloodrider'],,Male,,Dothraki,0,0,0,0,0,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,High Septon (fat one),['High Septon'],,Male,,,0,0,0,0,0,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Jorah Mormont,['Ser'],['Mormont'],Male,41 - 50,Northmen,0,0,0,0,1,3
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Moro,['Khal'],,Male,,Dothraki,0,0,0,0,1,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Qotho,['Bloodrider'],,Male,,Dothraki,0,0,0,0,0,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Rhogoro,['Khalakka'],,Male,,Dothraki,0,0,0,0,1,1
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,2
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,9,228,4,78,0,0
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,2,11,14,242,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,14,242,2,11,0,0
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,2
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,2,3
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Petyr Baelish,"['Lord', 'Master']",['Baelish'],Male,21 - 30,Valemen,0,0,0,0,1,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Renly Baratheon,"['Lord', 'Master']",['Baratheon'],Male,21 - 30,Stormlander,0,0,0,0,0,2
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,2,4
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,Stannis Baratheon,"['Lord', 'Master']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,1,2
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Aerys II Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,31 - 40,Crownlands,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,3
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Brandon Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,1,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,2,20,3,41,0,0
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,2,3
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Lady,,,,,,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Luwin,['Maester'],,Male,,Westeros,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,5,61,0,0
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Nymeria (direwolf),,,,,,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,1,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,0,1
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,5,61,0,0
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,9,131,1,13,0,0
+Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,1,11,0,0,0,0
+Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,0,0,1,11,0,0
+Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,1,1
+Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,1,11,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,6,64,0,2
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,0,0,0,0,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Donnis,,,Male,,Northmen,0,0,6,64,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Lew (guard),,,Male,,Northmen,0,0,6,64,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,2,19,4,45,1,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,2,10,3,48,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,1,18,9,90,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Summer,,,,,,0,0,0,0,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,1,21,5,43,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,1,14,5,50,0,0
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,3,26,1,18,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,27,445,0,0,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,2,2
+Jon Snow,,,Male,11 - 20,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,7,91,9,109,3,6
+Jon Snow,,,Male,11 - 20,Northmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,6,26,3,55,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Desmond,,,Male,,Northmen,0,0,8,97,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,5,72,4,34,1,2
+Jon Snow,,,Male,11 - 20,Northmen,Gared,,,Male,51 - 60,Westeros,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Ghost,,,,,,2,13,0,0,1,6
+Jon Snow,,,Male,11 - 20,Northmen,Grey Wind,,,,,,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,0,0,8,97,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,0,0,8,97,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,1,2
+Jon Snow,,,Male,11 - 20,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,0,0,9,106,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Lady,,,,,,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,Northmen,Mikken,,,Male,,Northmen,0,0,0,0,1,1
+Jon Snow,,,Male,11 - 20,Northmen,Mordane,['Septa'],,Female,,Westerosi,0,0,0,0,2,4
+Jon Snow,,,Male,11 - 20,Northmen,Nymeria (direwolf),,,,,,0,0,0,0,1,3
+Jon Snow,,,Male,11 - 20,Northmen,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,8,66,8,97,1,3
+Jon Snow,,,Male,11 - 20,Northmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,1,2
+Jon Snow,,,Male,11 - 20,Northmen,Shaggydog,,,,,,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,Northmen,Summer,,,,,,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,4,27,5,71,0,0
+Jon Snow,,,Male,11 - 20,Northmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,Northmen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,11,91,2,13,0,0
+Jon Snow,,,Male,11 - 20,,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,13,210,1,2,0,0
+Jon Snow,,,Male,11 - 20,,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,0,0,0,1
+Jon Snow,,,Male,11 - 20,,Daeron I Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,11 - 20,Crownlands,0,0,0,0,1,1
+Jon Snow,,,Male,11 - 20,,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,2
+Jon Snow,,,Male,11 - 20,,Ghost,,,,,,1,2,0,0,2,2
+Jon Snow,,,Male,11 - 20,,Hullen,['Master of Horse'],,Male,,Northmen,0,0,0,0,1,1
+Jon Snow,,,Male,11 - 20,,Luwin,['Maester'],,Male,,Westeros,0,0,0,0,1,1
+Jon Snow,,,Male,11 - 20,,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,1,1
+Jon Snow,,,Male,11 - 20,,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,1
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,1,4,3,11,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Desmond,,,Male,,Northmen,1,4,2,8,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,3,10,1,5,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,1,4,2,8,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,1,4,2,8,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Jon Snow,,,Male,11 - 20,Northmen,1,4,2,8,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,2,9,1,3,0,0
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,1,4,2,8,0,0
+Luwin,['Maester'],,Male,,Westeros,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,1,1
+Luwin,['Maester'],,Male,,Westeros,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,4,63,12,219,1,1
+Luwin,['Maester'],,Male,,Westeros,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,14,256,2,26,0,0
+Luwin,['Maester'],,Male,,Westeros,Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,0,0,0,0,1,1
+Luwin,['Maester'],,Male,,Westeros,Jon Snow,,,Male,11 - 20,Northmen,0,0,0,0,3,3
+Luwin,['Maester'],,Male,,Westeros,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,1,1
+Luwin,['Maester'],,Male,,Westeros,Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,0,0,0,0,0,1
+Luwin,['Maester'],,Male,,Westeros,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,1
+Mordane,['Septa'],,Female,,Westerosi,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,5,66,1,7,0,0
+Mordane,['Septa'],,Female,,Westerosi,Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,1,6,5,67,0,0
+Mordane,['Septa'],,Female,,Westerosi,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Mordane,['Septa'],,Female,,Westerosi,Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,1,6,5,67,0,0
+Mordane,['Septa'],,Female,,Westerosi,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,1,6,5,67,0,1
+Mordane,['Septa'],,Female,,Westerosi,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,2,13,4,60,0,0
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,1,1
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,1,5,0,0
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,1,5,0,0
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,1,5,0,0
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,1,5,0,0,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,2,2
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,2,16,13,109,0,2
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Desmond,,,Male,,Northmen,0,0,8,77,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Donnis,,,Male,,Northmen,0,0,5,25,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,4,52,4,25,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Gared,,,Male,51 - 60,Westeros,0,0,0,0,0,2
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Grey Wind,,,,,,0,0,0,0,0,2
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Harwin,['Ser'],,Male,21 - 30,Northmen,0,0,8,77,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Hullen,['Master of Horse'],,Male,,Northmen,0,0,8,77,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,2,15,3,10,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Jon Snow,,,Male,11 - 20,Northmen,10,90,8,77,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,1,7,7,70,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Lady,,,,,,0,0,0,0,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Lew (guard),,,Male,,Northmen,0,0,5,25,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Nymeria (direwolf),,,,,,0,0,0,0,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,2,9,1,1,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Rodrik Cassel,"['Ser', 'Master-at-Arms']",['Cassel'],Male,51 - 60,Northmen,0,0,0,0,1,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,1,1,4,24,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Shaggydog,,,,,,0,0,0,0,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Summer,,,,,,0,0,0,0,0,1
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,2,12,11,90,0,0
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,5,25,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,0,1
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,2,31,1,1
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,2,31,1,3
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,30,1275,0,0,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,2,31,1,2
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,0,0,0,0,4,4
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Lyanna Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,0,0,1,4
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,0,0,0,0,1,2
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Rhaegar Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Crownlands,0,0,0,0,1,2
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,0,0,0,0,1,6
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,0,0,2,31,1,1
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,0,0,2,31,0,0
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,Tywin Lannister,"['Lord', 'Shield', 'Warden']",['Lannister'],Male,51 - 60,Westermen,0,0,0,0,3,3
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,2,11,6,64,0,0
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Donnis,,,Male,,Northmen,1,10,7,65,0,0
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,3,26,5,49,0,2
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Lew (guard),,,Male,,Northmen,1,10,7,65,0,0
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,3,29,5,46,0,1
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,2,31,6,44,0,0
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,0,0,8,75,0,0
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,2,11,6,64,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,4,47,0,1
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westermen,0,0,0,0,0,1
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Donnis,,,Male,,Northmen,0,0,4,47,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,0,0,0,0,0,1
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,2,24,6,68,0,1
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Lew (guard),,,Male,,Northmen,0,0,4,47,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,2,22,2,25,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,2,25,2,22,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Summer,,,,,,0,0,0,0,0,1
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,0,0,4,47,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,4,47,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,4,33,2,24,0,0
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,3,29,2,26,1,1
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,1,6,4,49,0,0
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,0,0,5,55,0,0
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,0,0,0,0,1,2
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Jon Snow,,,Male,11 - 20,Northmen,0,0,0,0,1,2
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Mordane,['Septa'],,Female,,Westerosi,1,20,0,0,0,0
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,1,20,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,2,16,6,50,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Desmond,,,Male,,Northmen,1,7,6,56,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Donnis,,,Male,,Northmen,0,0,1,3,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,3,31,4,32,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Ghost,,,,,,0,0,0,0,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Grey Wind,,,,,,0,0,0,0,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Harwin,['Ser'],,Male,21 - 30,Northmen,1,7,6,56,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Hullen,['Master of Horse'],,Male,,Northmen,1,7,6,56,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,1,3,0,0,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Jon Snow,,,Male,11 - 20,Northmen,3,32,4,31,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,1,7,6,56,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Lady,,,,,,0,0,0,0,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Lew (guard),,,Male,,Northmen,0,0,1,3,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Nymeria (direwolf),,,,,,0,0,0,0,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,2,15,6,51,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,0,0,1,3,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,0,0,1,3,0,0
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Shaggydog,,,,,,0,0,0,0,0,1
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Summer,,,,,,0,0,0,0,0,2
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,0,0,1,3,0,0
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,2,2
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,0,0,2,13,0,0
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,2,13,0,0
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,0,0,2,13,0,0
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,2,13,0,0,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Ayrmidon,,,Male,,Valyrian,0,0,0,0,1,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,0,0,0,0,1,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,7
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,0,0,0,0,1,2
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,5,121,6,156,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Chayle,,,Male,,Northmen,1,44,0,0,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,0,0,0,0,5,5
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Ghost,,,,,,0,0,0,0,0,5
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westermen,0,0,0,0,0,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,10,170,6,204,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Joanna Lannister,['Lady'],['Lannister'],Female,21 - 30,Westernmen,0,0,0,0,0,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,5,125,3,30,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Jon Snow,,,Male,11 - 20,Northmen,14,221,0,0,0,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Luwin,['Maester'],,Male,,Westeros,0,0,0,0,0,2
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,1,45,10,232,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,0,0,0,0,0,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,0,0,0,0,0,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,2,2
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,5,54,5,125,0,0
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Summer,,,,,,0,0,0,0,0,2
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,1,18,10,259,1,1
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,Tywin Lannister,"['Lord', 'Shield', 'Warden']",['Lannister'],Male,51 - 60,Westermen,0,0,0,0,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Free Cities,Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,5,160,0,0,0,0
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Free Cities,Drogo,['Khal'],,Male,31 - 40,Dothraki,0,0,0,0,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Free Cities,Illyrio Mopatis,['Magister'],,Male,,Pentoshi,0,0,0,0,3,3
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Aegon I Targaryen,"['King', 'Lord', 'Protector', 'Shield']",['Targaryen'],Male,31 - 40,Crownlands,0,0,0,0,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Aegon Targaryen (son of Rhaegar),['Prince'],['Targaryen'],Male,0 - 10,Crownlands,0,0,0,0,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Aerys II Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,31 - 40,Crownlands,0,0,0,0,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,5,196,8,172,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Drogo,['Khal'],,Male,31 - 40,Dothraki,0,0,0,0,3,5
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Elia Martell,['Princess'],['Martell'],Female,21 - 30,Dornishmen,0,0,0,0,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Illyrio Mopatis,['Magister'],,Male,,Pentoshi,7,170,1,8,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,0,0,0,0,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Jorah Mormont,['Ser'],['Mormont'],Male,41 - 50,Northmen,0,0,0,0,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Rhaegar Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Crownlands,0,0,0,0,1,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Rhaenys Targaryen (daughter of Rhaegar),['Princess'],['Targaryen'],Female,0 - 10,Crownlands,0,0,0,0,0,1
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,0,3
+Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,Gared,,,Male,51 - 60,Westeros,14,166,14,118,0,0
+Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,0,0,0,0,1,0
+Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,Will,,,Male,,Rivermen,18,227,16,114,0,0
+Will,,,Male,,Rivermen,Gared,,,Male,51 - 60,Westeros,1,10,13,230,1,1
+Will,,,Male,,Rivermen,Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,15,244,0,0,0,0

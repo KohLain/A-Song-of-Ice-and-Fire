@@ -1,0 +1,11 @@
+chapter_number,chapter_title,total_unique_characters,total_unique_males,total_unique_females,total_characters_introduced,new_males,new_females,bechdel_pass,percentage_dialogues_pass_bechdel,dialogues_pass_bechdel,total_dialogues
+1,Bran I,24,15,3,19,10,3,False,0.0,0,68
+2,Catelyn I,37,25,6,13,10,3,False,0.0,0,39
+3,Daenerys I,54,39,9,17,14,3,True,4.76,2,42
+4,Eddard I,59,43,10,5,4,1,False,0.0,0,56
+5,Jon I,62,45,11,3,2,1,False,0.0,0,56
+6,Catelyn II,62,45,11,0,0,0,False,0.0,0,88
+7,Arya I,68,48,14,6,3,3,True,10.0,6,60
+8,Bran II,71,51,14,3,3,0,False,0.0,0,33
+9,Tyrion I,75,54,15,4,3,1,False,0.0,0,58
+10,Jon II,76,55,15,1,1,0,False,0.0,0,65

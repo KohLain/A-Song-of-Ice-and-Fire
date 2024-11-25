@@ -1,0 +1,36 @@
+book_name,chapter_title,chapter_number,scene_id,location,time,num_dialogues,num_males,num_females,themes,scene_bechdel_pass,scene_bechdel_percent,scene_bechdel_pass_percentage
+A Game of Thrones,Prologue,0,0,The Haunted Forest,Evening,36,5,2,"['Fear', 'Death', 'Cold', 'Duty', 'Experience vs. Youth']",False,0.0,0.0
+A Game of Thrones,Prologue,0,1,The Haunted Forest,Evening,17,3,0,"['Fear', 'Supernatural', 'Duty', 'Experience vs. Youth']",False,0.0,0.0
+A Game of Thrones,Prologue,0,2,The Haunted Forest,Evening,12,3,0,"['Supernatural', 'Fear', 'Death', 'Courage', 'Honor']",False,0.0,0.0
+A Game of Thrones,Bran I,1,0,Outside Winterfell,Morning,4,11,0,"['Justice', 'Honor', 'Duty', 'Courage']",False,0.0,0.0
+A Game of Thrones,Bran I,1,1,Outside Winterfell,Morning,4,4,0,"['Courage vs. Fear', 'Brotherhood', 'Perception of Bravery']",False,0.0,0.0
+A Game of Thrones,Bran I,1,2,Outside Winterfell,Morning,12,7,1,"['Responsibility', 'Justice', 'The Nature of Courage', 'Leadership']",False,0.0,0.0
+A Game of Thrones,Bran I,1,3,Outside Winterfell,Morning,48,12,2,"['Family', 'Fate', 'Symbolism', 'Mercy', 'Responsibility']",False,0.0,0.0
+A Game of Thrones,Catelyn I,2,0,Winterfell,Evening,39,18,7,"['Family', 'Duty', 'Honor', 'Political intrigue', 'Power']",False,0.0,0.0
+A Game of Thrones,Daenerys I,3,0,Pentos,Evening,8,3,1,"['Duty', 'Manipulation', 'Family', 'Power']",False,0.0,0.0
+A Game of Thrones,Daenerys I,3,1,Pentos,Evening,3,1,2,"['Wealth', 'Beauty']",True,0.6666666666666666,66.66666666666666
+A Game of Thrones,Daenerys I,3,2,Pentos,Night,9,3,1,"['Beauty', 'Power', 'Manipulation']",False,0.0,0.0
+A Game of Thrones,Daenerys I,3,3,Pentos,Night,7,8,3,"['Power', 'Revenge', 'Political intrigue']",False,0.0,0.0
+A Game of Thrones,Daenerys I,3,4,Pentos,Night,9,11,1,['Power'],False,0.0,0.0
+A Game of Thrones,Daenerys I,3,5,Pentos,Night,6,4,1,"['Family', 'Power', 'Manipulation']",False,0.0,0.0
+A Game of Thrones,Eddard I,4,0,Winterfell,Afternoon,3,10,5,,False,0.0,0.0
+A Game of Thrones,Eddard I,4,1,Winterfell,Afternoon,53,10,5,"['Remembrance', 'Grief', 'Loss', 'Duty', 'Honor', 'Family', 'Burdens of leadership']",False,0.0,0.0
+A Game of Thrones,Jon I,5,2,Winterfell,Evening,29,10,2,"['Honor', 'Duty', 'Identity', 'Bastardy', 'Companionship']",False,0.0,0.0
+A Game of Thrones,Jon I,5,3,Winterfell,Night,27,7,1,"['Identity', 'Family', 'Acceptance', 'Wisdom', 'Self-awareness']",False,0.0,0.0
+A Game of Thrones,Catelyn II,6,0,Winterfell,Night,20,6,2,"['Duty versus personal desire', 'Family obligations', 'Honor', 'Love']",False,0.0,0.0
+A Game of Thrones,Catelyn II,6,1,Winterfell,Night,68,13,5,"['Political intrigue', 'Betrayal', 'Family safety', 'Duty', 'Loyalty']",False,0.0,0.0
+A Game of Thrones,Arya I,7,0,Winterfell,Afternoon,12,2,6,"['Family', 'Jealousy', 'Social Expectations', 'Gender Roles', 'Nobility', 'Marriage']",True,0.3333333333333333,33.33333333333333
+A Game of Thrones,Arya I,7,1,Winterfell,Afternoon,7,0,7,"['Rebellion', 'Independence', 'Family Expectations']",True,1.0,28.57142857142857
+A Game of Thrones,Arya I,7,2,Winterfell,Afternoon,1,0,1,,False,0.0,0.0
+A Game of Thrones,Arya I,7,3,Winterfell,Afternoon,12,6,2,"['Injustice', 'Gender Roles', 'Bastardy']",False,0.0,0.0
+A Game of Thrones,Arya I,7,4,Winterfell,Afternoon,25,10,1,"['Honor and Pride', 'Social Status', 'Masculinity']",False,0.0,0.0
+A Game of Thrones,Arya I,7,5,Winterfell,Afternoon,3,1,2,"['Responsibility', 'Injustice']",False,0.0,0.0
+A Game of Thrones,Bran II,8,0,Winterfell,Morning,2,1,1,,False,0.0,0.0
+A Game of Thrones,Bran II,8,1,Winterfell,Morning,31,10,4,"['Betrayal', 'Forbidden Love (Incest)', 'Power Struggles', 'Loss of Innocence', 'Danger']",False,0.0,0.0
+A Game of Thrones,Tyrion I,9,0,Winterfell,Morning,1,3,0,,False,0.0,0.0
+A Game of Thrones,Tyrion I,9,1,Winterfell,Morning,20,6,2,"['Responsibility', 'Power Struggles', 'Social Status']",False,0.0,0.0
+A Game of Thrones,Tyrion I,9,2,Winterfell,Morning,27,11,4,"['Family', 'Loyalty', 'Intrigue', 'Power']",False,0.037037037037037035,0.0
+A Game of Thrones,Tyrion I,9,3,Winterfell,Morning,10,5,0,"['Family', 'Loyalty', 'Death']",False,0.0,0.0
+A Game of Thrones,Jon II,10,0,Winterfell,Morning,17,4,1,"['Family', 'Grief', 'Rejection', 'Duty', 'Farewell']",False,0.0,0.0
+A Game of Thrones,Jon II,10,1,Winterfell,Morning,14,4,1,"['Brotherhood', 'Parting', 'Hope', 'Duty']",False,0.0,0.0
+A Game of Thrones,Jon II,10,2,Winterfell,Morning,34,3,3,"['Love', 'Family', 'Encouragement', 'Identity']",False,0.0,0.0

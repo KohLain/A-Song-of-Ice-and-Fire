@@ -1,0 +1,77 @@
+name,titles,houses,gender,age,culture,first_appearance_book,first_appearance_chapter,first_appearance_chapter_number,num_speeches,num_words_spoken,num_addressee,num_listener,num_mentions,num_about
+Aegon I Targaryen,"['King', 'Lord', 'Protector', 'Shield']",['Targaryen'],Male,31 - 40,Crownlands,A Game of Thrones,Daenerys I,3,0,0,0,0,1,1
+Aegon Targaryen (son of Rhaegar),['Prince'],['Targaryen'],Male,0 - 10,Crownlands,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Aerys II Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,31 - 40,Crownlands,A Game of Thrones,Daenerys I,3,0,0,0,0,0,2
+Arya Stark,['Princess'],['Stark'],Female,0 - 10,Northmen,A Game of Thrones,Bran I,1,30,236,37,6,3,9
+Ayrmidon,,,Male,,Valyrian,A Game of Thrones,Tyrion I,9,0,0,0,0,1,1
+Benjen Stark,['First Ranger'],['Stark'],Male,31 - 40,Northmen,A Game of Thrones,Catelyn I,2,15,267,13,1,10,12
+Beth Cassel,,['Cassel'],Female,0 - 10,Northmen,A Game of Thrones,Arya I,7,1,14,3,15,0,0
+Bran Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,A Game of Thrones,Bran I,1,12,76,30,88,12,42
+Brandon Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,A Game of Thrones,Eddard I,4,0,0,0,0,6,6
+Brynden Tully,['Warden'],['Tully'],Male,51 - 60,Rivermen,A Game of Thrones,Catelyn I,2,0,0,0,0,1,2
+Catelyn Stark,['Lady'],"['Stark', 'Tully']",Female,31 - 40,Rivermen,A Game of Thrones,Catelyn I,2,57,859,58,32,5,16
+Cersei Lannister,['Queen'],['Lannister'],Female,31 - 40,Westernmen,A Game of Thrones,Tyrion I,9,8,97,7,12,0,0
+Chayle,,,Male,,Northmen,A Game of Thrones,Tyrion I,9,0,0,1,0,0,0
+Cohollo,['Bloodrider'],,Male,,Dothraki,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Daenerys Targaryen,['Princess'],['Targaryen'],Female,11 - 20,Free Cities,A Game of Thrones,Daenerys I,3,8,48,19,15,0,3
+Daeron I Targaryen,"['King', 'Lord', 'Prince', 'Protector']",['Targaryen'],Male,11 - 20,Crownlands,A Game of Thrones,Jon I,5,0,0,0,0,2,2
+Desmond,,,Male,,Northmen,A Game of Thrones,Bran I,1,2,15,11,42,0,0
+Donnis,,,Male,,Northmen,A Game of Thrones,Arya I,7,0,0,1,23,0,0
+Drogo,['Khal'],,Male,31 - 40,Dothraki,A Game of Thrones,Daenerys I,3,0,0,1,0,10,15
+Eddard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,A Game of Thrones,Bran I,1,105,2048,118,21,12,24
+Elia Martell,['Princess'],['Martell'],Female,21 - 30,Dornishmen,A Game of Thrones,Daenerys I,3,0,0,0,0,1,1
+Farlen,['Kennelmaster'],,Male,,Northmen,A Game of Thrones,Bran I,1,0,0,0,0,0,1
+Gared,,,Male,51 - 60,Westeros,A Game of Thrones,Prologue,0,13,343,15,27,2,9
+Ghost,,,,,,A Game of Thrones,Bran I,1,0,0,3,0,3,16
+Grey Wind,,,,,,A Game of Thrones,Bran I,1,0,0,0,0,0,14
+Haggo,['Bloodrider'],,Male,,Dothraki,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Harwin,['Ser'],,Male,21 - 30,Northmen,A Game of Thrones,Bran I,1,1,5,6,42,0,0
+High Septon (fat one),['High Septon'],,Male,,,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Hullen,['Master of Horse'],,Male,,Northmen,A Game of Thrones,Bran I,1,3,28,5,41,2,2
+Illyrio Mopatis,['Magister'],,Male,,Pentoshi,A Game of Thrones,Daenerys I,3,13,306,10,1,4,5
+Jaime Lannister,['Ser'],['Lannister'],Male,31 - 40,Westernmen,A Game of Thrones,Tyrion I,9,10,144,10,17,0,0
+Jeor Mormont,['Lord Commander'],['Mormont'],Male,51 - 60,Northmen,A Game of Thrones,Prologue,0,0,0,0,0,1,1
+Jeyne Poole,,['Poole'],Female,11 - 20,Northmen,A Game of Thrones,Arya I,7,1,11,2,16,0,0
+Joanna Lannister,['Lady'],['Lannister'],Female,21 - 30,Westernmen,A Game of Thrones,Jon I,5,0,0,0,0,0,1
+Joffrey Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,11 - 20,Crownlands,A Game of Thrones,Catelyn I,2,10,108,13,20,8,24
+Jon Arryn,"['Lord', 'Hand', 'Warden']",['Arryn'],Male,71 - 80,Valemen,A Game of Thrones,Catelyn I,2,0,0,0,0,15,16
+Jon Snow,,,Male,11 - 20,Northmen,A Game of Thrones,Jon I,5,55,676,52,1,9,15
+Jorah Mormont,['Ser'],['Mormont'],Male,41 - 50,Northmen,A Game of Thrones,Daenerys I,3,0,0,1,0,2,6
+Jory Cassel,"['Ser', 'Captain']",['Cassel'],Male,21 - 30,Northmen,A Game of Thrones,Bran I,1,4,15,8,40,1,1
+Lady,,,,,,A Game of Thrones,Bran I,1,0,0,0,0,0,14
+Lew (guard),,,Male,,Northmen,A Game of Thrones,Arya I,7,0,0,1,23,0,0
+Luwin,['Maester'],,Male,,Westeros,A Game of Thrones,Catelyn I,2,16,282,14,38,6,12
+Lyanna Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,A Game of Thrones,Eddard I,4,0,0,0,0,3,8
+Lysa Arryn,['Lady'],['Arryn'],Female,31 - 40,Rivermen,A Game of Thrones,Catelyn I,2,0,0,0,0,12,21
+Mance Rayder,['King'],,Male,31 - 40,Free Folk,A Game of Thrones,Catelyn I,2,0,0,0,0,1,2
+Mikken,,,Male,,Northmen,A Game of Thrones,Jon II,10,0,0,0,0,1,1
+Mordane,['Septa'],,Female,,Westerosi,A Game of Thrones,Arya I,7,6,73,3,1,4,6
+Moro,['Khal'],,Male,,Dothraki,A Game of Thrones,Daenerys I,3,0,0,1,0,1,1
+Myrcella Baratheon,['Princess'],"['Baratheon', 'Lannister']",Female,0 - 10,Crownlands,A Game of Thrones,Catelyn I,2,1,5,4,35,0,5
+Nymeria (direwolf),,,,,,A Game of Thrones,Bran I,1,0,0,2,0,1,15
+Old Nan,,,Female,81 - 90,Northmen,A Game of Thrones,Bran I,1,0,0,0,0,2,2
+Petyr Baelish,"['Lord', 'Master']",['Baelish'],Male,21 - 30,Valemen,A Game of Thrones,Bran II,8,0,0,0,0,1,1
+Pycelle,['Grand Maester'],,Male,81 - 90,Westerosi,A Game of Thrones,Catelyn I,2,0,0,0,0,1,1
+Qotho,['Bloodrider'],,Male,,Dothraki,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Renly Baratheon,"['Lord', 'Master']",['Baratheon'],Male,21 - 30,Stormlander,A Game of Thrones,Bran II,8,0,0,0,0,1,3
+Rhaegar Targaryen,['Prince'],['Targaryen'],Male,21 - 30,Crownlands,A Game of Thrones,Daenerys I,3,0,0,0,0,2,3
+Rhaenys Targaryen (daughter of Rhaegar),['Princess'],['Targaryen'],Female,0 - 10,Crownlands,A Game of Thrones,Daenerys I,3,0,0,0,0,0,1
+Rhogoro,['Khalakka'],,Male,,Dothraki,A Game of Thrones,Daenerys I,3,0,0,1,0,1,1
+Rickard Stark,"['Lord', 'Warden']",['Stark'],Male,31 - 40,Northmen,A Game of Thrones,Eddard I,4,0,0,0,0,1,3
+Rickon Stark,['Prince'],['Stark'],Male,0 - 10,Northmen,A Game of Thrones,Bran I,1,0,0,0,3,2,13
+Robb Stark,['Prince'],['Stark'],Male,11 - 20,Northmen,A Game of Thrones,Bran I,1,23,192,31,40,9,21
+Robert Arryn,,['Arryn'],Male,0 - 10,Valemen,A Game of Thrones,Catelyn I,2,0,0,0,0,1,17
+Robert I Baratheon,"['King', 'Lord', 'Protector']",['Baratheon'],Male,31 - 40,Stormlander,A Game of Thrones,Prologue,0,30,1275,26,0,24,40
+Rodrik Cassel,"['Master-at-arms', 'Ser']",['Cassel'],Male,51 - 60,Northmen,A Game of Thrones,Arya I,7,8,75,6,7,0,0
+Sandor Clegane,,['Clegane'],Male,21 - 30,Westermen,A Game of Thrones,Eddard I,4,10,104,9,28,0,0
+Sansa Stark,['Princess'],['Stark'],Female,11 - 20,Northmen,A Game of Thrones,Bran I,1,5,55,5,12,9,16
+Shaggydog,,,,,,A Game of Thrones,Bran I,1,0,0,0,0,0,13
+Stannis Baratheon,"['Lord', 'Master']",['Baratheon'],Male,31 - 40,Stormlander,A Game of Thrones,Bran II,8,0,0,0,0,2,3
+Summer,,,,,,A Game of Thrones,Bran I,1,0,0,2,0,0,19
+Theon Greyjoy,,['Greyjoy'],Male,11 - 20,Ironmen,A Game of Thrones,Bran I,1,8,66,13,53,0,0
+Tommen Baratheon,['Prince'],"['Baratheon', 'Lannister']",Male,0 - 10,Crownlands,A Game of Thrones,Catelyn I,2,2,13,5,47,2,7
+Tyrion Lannister,,['Lannister'],Male,21 - 30,Westernmen,A Game of Thrones,Catelyn I,2,41,818,38,9,0,2
+Tywin Lannister,"['Lord', 'Shield', 'Warden']",['Lannister'],Male,51 - 60,Westermen,A Game of Thrones,Eddard I,4,0,0,0,0,3,5
+Viserys Targaryen,['Prince'],['Targaryen'],Male,21 - 30,,A Game of Thrones,Daenerys I,3,13,368,12,6,0,0
+Waymar Royce,['Ser'],['Royce'],Male,11 - 20,Valemen,A Game of Thrones,Prologue,0,36,354,29,0,0,0
+Will,,,Male,,Rivermen,A Game of Thrones,Prologue,0,15,244,19,29,2,1
