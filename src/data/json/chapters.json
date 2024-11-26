@@ -2,48 +2,1343 @@
     "book": "A Game of Thrones",
     "author": "George R. R. Martin",
     "published": "1996-08-06",
-    "pages": 694,
-    "chapters": [
-        {
-            "title": "Prologue",
-            "number": 0,
-            "pov": "Will",
-            "pages": 11,
-            "words": null,
-            "year": 297,
-            "theme(s)": [],
-            "characters": {
+    "pages": null,
+    "chapters": [{
+        "title": "Prologue",
+        "number": 0,
+        "pov": "Will",
+        "pages": 11,
+        "words": null,
+        "year": 297,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
                 "appearing": [
                     "Will",
                     "Gared",
                     "Waymar Royce"
                 ],
-                "mentioned": []
-            },
-            "locations": {
-                "appearing": ["The Haunted Forest"],
-                "mentioned": []
-            },
-            "groups": {
-                "appearing": [
-                    "Night's Watch",
-                    "The Others"
-                ],
-                "mentioned": []
-            },
-            "events": {
-                "births": [],
-                "deaths": [
-                    "Waymar Royce"
-                ],
-                "marriages": [],
-                "battles": [],
-                "prophecies": {
-                    "announced": [],
-                    "mentioned": [],
-                    "fulfilled": []
-                }
+                "mentioned": [
+                    "Aemon Targaryen (son of Maekar I)",
+                    "Jeor Mormont",
+                    "Robert I Baratheon"
+                ]
             }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "Beyond the Wall",
+                        "locations": {
+                            "appearing": ["The Haunted Forest"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "The Wall",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Castle Black"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": null
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": ["House Royce"],
+                "mentioned": ["House Mallister"]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": ["Night's Watch"],
+                "mentioned": null
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": ["Maesters"]
+            },
+            "peoples": {
+                "appearing": ["Others"],
+                "mentioned": ["Wildlings"]
+            },
+            "religious orders": null
+        },
+        "events": null
+    }, {
+        "title": "Bran I",
+        "number": 1,
+        "pov": "Bran Stark",
+        "pages": 9,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": {
+                "appearing": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Lady",
+                    "Nymeria (direwolf)",
+                    "Shaggydog",
+                    "Summer"
+                ],
+                "mentioned": null
+            },
+            "humans": {
+                "appearing": [
+                    "Bran Stark",
+                    "Desmond",
+                    "Eddard Stark",
+                    "Gared",
+                    "Harwin",
+                    "Hullen",
+                    "Jon Snow",
+                    "Jory Cassel",
+                    "Robb Stark",
+                    "Theon Greyjoy"
+                ],
+                "mentioned": [
+                    "Arya Stark",
+                    "Catelyn Stark",
+                    "Mance Rayder",
+                    "Old Nan",
+                    "Sansa Stark",
+                    "Rickon Stark",
+                    "Robert I Baratheon"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Outside Winterfell"],
+                            "mentioned": ["Winterfell"]
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Riverrun"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "regions": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Valyrian peninsula",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Valyria"]
+                        }
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Cassel",
+                    "House Stark",
+                    "House Greyjoy"
+                ],
+                "mentioned": [
+                    "House Baratheon",
+                    "House Targaryen",
+                    "House Tully"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": null,
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": null,
+            "peoples": {
+                "appearing": null,
+                "mentioned": [
+                    "Others",
+                    "Wildlings"
+                ]
+            },
+            "religious orders": null
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "Period",
+                "name": "Long Night"
+            }]
         }
-    ]
+    }, {
+        "title": "Catelyn I",
+        "number": 2,
+        "pov": "Catelyn Stark",
+        "pages": 6,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
+                "appearing": [
+                    "Catelyn Stark",
+                    "Eddard Stark"
+                ],
+                "mentioned": [
+                    "Aerys II Targaryen",
+                    "Arya Stark",
+                    "Benjen Stark",
+                    "Bran Stark",
+                    "Brandon the Builder",
+                    "Brynden Tully",
+                    "Cersei Lannister",
+                    "Gared",
+                    "Hoster Tully",
+                    "Jaime Lannister",
+                    "Joffrey Baratheon",
+                    "Jon Arryn",
+                    "Jory Casse",
+                    "Luwin",
+                    "Lysa Arryn",
+                    "Mance Rayder",
+                    "Myrcella Baratheon",
+                    "Old Nan",
+                    "Pycelle",
+                    "Rickon Stark",
+                    "Robert Arryn",
+                    "Robert I Baratheon",
+                    "Sansa Stark",
+                    "Tommen Baratheon",
+                    "Tyrion Lannister"
+                ]
+            }
+            
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Beyond the Wall",
+                        "locations": null
+                    }, {
+                        "name": "Narrow Sea",
+                        "locations": null
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": [
+                                "Isle of Faces",
+                                "Riverrun",
+                                "Red Fork",
+                                "Trident"
+                            ]
+                        }
+                    }, {
+                        "name": "The Vale",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Eyrie"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "locations": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Valyrian peninsula",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Valyria"]
+                        }
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": ["House Stark"],
+                "mentioned": [
+                    "House Arryn",
+                    "House Baratheon",
+                    "House Lannister",
+                    "House Targaryen",
+                    "House Tully"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": null,
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": ["Maesters"]
+            },
+            "peoples": {
+                "appearing": null,
+                "mentioned": [
+                    "Children of the Forest",
+                    "Others",
+                    "Wildlings"
+                ]
+            },
+            "religious orders": {
+                "appearing": null,
+                "mentioned": ["Septons"]
+            }
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "Cataclysm",
+                "name": "Doom of Valyria"
+            }]
+        }
+    }, {
+        "title": "Daenerys I",
+        "number": 3,
+        "pov": "Daenerys Targaryen",
+        "pages": 11,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
+                "appearing": [
+                    "Cohollo",
+                    "Daenerys Targaryen",
+                    "Drogo",
+                    "Girl bought to please the king",
+                    "Haggo",
+                    "Illyrio Mopatis",
+                    "Jorah Mormont",
+                    "Moro",
+                    "Qotho",
+                    "Rhogoro",
+                    "Viserys Targaryen"
+                ],
+                "mentioned": [
+                    "Aegon I Targaryen",
+                    "Aegon Taragryen (son of Rhaegar)",
+                    "Eddard Stark",
+                    "Elia Martell",
+                    "Jaime Lannister",
+                    "Rhaegar Targaryen",
+                    "Rhaella Targaryen",
+                    "Rhaenys Targaryen",
+                    "Rhaenys Targaryen (daughter of Rhaegar)",
+                    "Robert I Baratheon",
+                    "Stannis Baratheon",
+                    "Tywin Lannister",
+                    "Viserys Targaryen",
+                    "Willem Darry"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Essos",
+                "regions": {
+                    "appearing": [{
+                        "name": "Free Cities",
+                        "locations": {
+                            "appearing": ["Pentos"],
+                            "mentioned": [
+                                "Braavos", 
+                                "Lys", 
+                                "Myr",
+                                "Qohor",
+                                "Tyrosh", 
+                                "Volantis"
+                            ]
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Dothraki Sea",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Vaes Dothrak"]
+                        }
+                    }, {
+                        "name": "Jade Sea",
+                        "locations": null
+                    }, {
+                        "name": "Ibben",
+                        "locations": [{
+                            "appearing": null,
+                            "mentioned": ["Port of Ibben"]
+                        }]
+                    }, {
+                        "name": "Valyrian peninsula",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Valyria"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Islands",
+                "regions": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Summer Isles",
+                        "locations": null
+                    }]
+                }]
+            }, {
+                "name": "Westeros",
+                "regions": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Dorne",
+                        "locations": null
+                    },{
+                        "name": "The Crownlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": [
+                                "Dragonstone", 
+                                "King's Landing"
+                            ]
+                        }
+                    }, {
+                        "name": "The Reach",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Highgarden"]
+                        }
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": [
+                                "Isle of Faces",
+                                "Trident"
+                            ]
+                        }
+                    }, {
+                        "name": "The Vale",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Eyrie"]
+                        }
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": ["House Targaryen"],
+                "mentioned": [
+                    "House Greyjoy",
+                    "House Darry",
+                    "House Lannister",
+                    "House Redwyne",
+                    "House Stark",
+                    "House Tyrell"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": null,
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": null
+            },
+            "peoples": {
+                "appearing": ["Dothraki"],
+                "mentioned": null
+            },
+            "religious orders": {
+                "appearing": null,
+                "mentioned": ["Red Priests"]
+            }
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "Battle",
+                "name": "Battle of the Trident"
+            }, {
+                "type": "Cataclysm",
+                "name": "Doom of Valyria"
+            }]
+        }
+    }, {
+        "title": "Eddard I",
+        "number": 4,
+        "pov": "Eddard Stark",
+        "pages": 10,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
+                "appearing": [
+                    "Catelyn Stark",
+                    "Cersei Lannister",
+                    "Eddard Stark",
+                    "Jaime Lannister",
+                    "Joffrey Baratheon",
+                    "Myrcella Baratheon",
+                    "Robert I Baratheon",
+                    "Sandor Clegane",
+                    "Tommen Baratheon",
+                    "Tyrion Lannister"
+                ],
+                "mentioned": [
+                    "Aerys II Targaryen",
+                    "Balon Greyjoy",
+                    "Benjen Stark",
+                    "Brandon Stark",
+                    "Howland Reed",
+                    "Jon Arryn",
+                    "Lyanna Stark",
+                    "Lysa Arryn",
+                    "Rhaegar Targaryen",
+                    "Rickard Stark",
+                    "Robert Arryn",
+                    "Sansa Stark",
+                    "Theon Greyjoy",
+                    "Tywin Lannister"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": ["Neck"]
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Iron Islands",
+                        "locations": [{
+                            "appearing": null,
+                            "mentioned": ["Pyke"]
+                        }]
+                    }, {
+                        "name": "The Crownlands",
+                        "locations": [{
+                            "appearing": null,
+                            "mentioned": ["King's Landing"]
+                        }]
+                    }, {
+                        "name": "The Reach",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Highgarden"]
+                        }
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": [
+                                "Riverrun",
+                                "Trident"
+                            ]
+                        }
+                    }, {
+                        "name": "The Stormlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Storm's End"]
+                        }
+                    }, {
+                        "name": "The Vale",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Eyrie"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": null
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Baratheon",
+                    "House Clegane",
+                    "House Lannister",
+                    "House Stark"
+                ],
+                "mentioned": [
+                    "House Arryn",
+                    "House Greyjoy",
+                    "House Targaryen",
+                    "House Tully"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": ["Kingsguard"],
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": null
+            },
+            "peoples": {
+                "appearing": null,
+                "mentioned": ["Others"]
+            },
+            "religious orders": {
+                "appearing": null,
+                "mentioned": null
+            }
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "War",
+                "name": "Greyjoy's Rebellion"
+            }]
+        }
+    }, {
+        "title": "Jon I",
+        "number": 5,
+        "pov": "Jon Snow",
+        "pages": 9,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": {
+                "appearing": ["Ghost"],
+                "mentioned": null
+            },
+            "humans": {
+                "appearing": [
+                    "Arya Stark",
+                    "Benjen Stark",
+                    "Catelyn Stark",
+                    "Cersei Lannister",
+                    "Eddard Stark",
+                    "Jaime Lannister",
+                    "Joffrey Baratheon",
+                    "Jon Snow",
+                    "Myrcella Baratheon",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Robert I Baratheon",
+                    "Sansa Stark",
+                    "Theon Greyjoy",
+                    "Tommen Baratheon",
+                    "Tyrion Lannister"
+                ],
+                "mentioned": [
+                    "Daeron I Targaryen",
+                    "Joanna Lannister",
+                    "Hullen",
+                    "Luwin",
+                    "Tywin Lannister"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Dorne",
+                        "locations": null
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Trident"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": null
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Baratheon",
+                    "House Lannister",
+                    "House Stark"
+                ],
+                "mentioned": null
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": ["Night's Watch"],
+                "mentioned": null
+            },
+            "other orders": null,
+            "peoples": null,
+            "religious orders": null
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "War",
+                "name": "Conquest of Dorne"
+            }]
+        }
+    }, {
+        "title": "Catelyn II",
+        "number": 6,
+        "pov": "Catelyn Stark",
+        "pages": 10,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
+                "appearing": [
+                    "Catelyn Stark",
+                    "Desmond",
+                    "Eddard Stark",
+                    "Luwin"
+                ],
+                "mentioned": [
+                    "Aerys II Targaryen",
+                    "Arthur Dayne",
+                    "Arya Stark",
+                    "Ashara Dayne",
+                    "Benjen Stark",
+                    "Brandon Stark",
+                    "Bran Stark",
+                    "Cersei Lannister",
+                    "Edmure Tully",
+                    "Hoster Tully",
+                    "Joffrey Baratheon",
+                    "Jon Arryn",
+                    "Jon Snow",
+                    "Lysa Arryn",
+                    "Rickard Stark",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Robert I Baratheon",
+                    "Robert Arryn",
+                    "Rodrik Cassel",
+                    "Sansa Stark"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Dorne",
+                        "locations": [{
+                            "appearing": null,
+                            "mentioned": ["Starfall"]
+                        }]
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Riverrun"]
+                        }
+                    }, {
+                        "name": "The Vale",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Eyrie"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "locations": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Free Cities",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Myr"]
+                        }
+                    }]
+                }]
+            }, {
+                "name": "Islands",
+                "regions": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Summer Isles",
+                        "locations": [{
+                            "appearing": null,
+                            "mentioned": ["Summer Sea"]
+                        }]
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": ["House Stark"],
+                "mentioned": [
+                    "House Arryn",
+                    "House Baratheon",
+                    "House Cassel",
+                    "House Dayne",
+                    "House Lannister",
+                    "House Tully"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": null,
+                "mentioned": [
+                    "Kingsguard",
+                    "Night's Watch"
+                ]
+            },
+            "other orders": {
+                "appearing": ["Maesters"],
+                "mentioned": null
+            },
+            "peoples": {
+                "appearing": null,
+                "mentioned": ["Others"]
+            },
+            "religious orders": null
+        },
+        "events": null
+    }, {
+        "title": "Arya I",
+        "number": 7,
+        "pov": "Arya",
+        "pages": 8,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": {
+                "appearing": [
+                    "Ghost",
+                    "Nymeria (direwolf)"
+                ],
+                "mentioned": ["Lady"]
+            },
+            "humans": {
+                "appearing": [
+                    "Arya Stark",
+                    "Beth Cassel",
+                    "Bran Stark",
+                    "Catelyn Stark",
+                    "Donnis",
+                    "Jeyne Poole",
+                    "Joffrey Baratheon",
+                    "Jon Snow",
+                    "Lew (Guard)",
+                    "Mordane",
+                    "Myrcella Baratheon",
+                    "Robb Stark",
+                    "Rodrik Cassel",
+                    "Sandor Clegane",
+                    "Sansa Stark",
+                    "Theon Greyjoy",
+                    "Tommen Baratheon"
+                ],
+                "mentioned": [
+                    "Eddard Stark",
+                    "Nymeria",
+                    "Rickon Stark",
+                    "Vayon Poole"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": null
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "locations": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Rhoyne",
+                        "locations": null
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Poole",
+                    "House Stark"
+                ],
+                "mentioned": [
+                    "House Baratheon",
+                    "House Cassel",
+                    "House Greyjoy",
+                    "House Lannister",
+                    "House Tully"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": null,
+            "other orders": null,
+            "peoples": null,
+            "religious orders": {
+                "appearing": null,
+                "mentioned": ["Septas"]
+            }
+        },
+        "events": null
+    }, {
+        "title": "Bran II",
+        "number": 8,
+        "pov": "Bran Stark",
+        "pages": 10,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": {
+                "appearing": ["Summer"],
+                "mentioned": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Lady",
+                    "Nymeria (direwolf)",
+                    "Shaggydog"
+                ]
+            },
+            "humans": {
+                "appearing": [
+                    "Bran Stark",
+                    "Cersei Lannister",
+                    "Gage",
+                    "Hodor",
+                    "Jaime Lannister",
+                    "Old Nan"
+                ],
+                "mentioned": [
+                    "Aegon II Targaryen",
+                    "Aemon Targaryen (son of Viserys II)",
+                    "Aerys II Targaryen",
+                    "Arryk Cargyll",
+                    "Arthur Dayne",
+                    "Arya Stark",
+                    "Barristan Selmy",
+                    "Benjen Stark",
+                    "Boros Blount",
+                    "Catelyn Stark",
+                    "Eddard Stark",
+                    "Erryk Cargyll",
+                    "Gerold Hightower",
+                    "Joffrey Baratheon",
+                    "Jon Arryn",
+                    "Jon Snow",
+                    "Jory Cassel",
+                    "Luwin",
+                    "Lyanna Stark",
+                    "Lysa Arryn",
+                    "Meryn Trant",
+                    "Mikken",
+                    "Petyr Baelish",
+                    "Renly Baratheon",
+                    "Rhaenyra Targaryen",
+                    "Rickon Stark",
+                    "Robb Stark",
+                    "Robert I Baratheon",
+                    "Robert Arryn",
+                    "Rodrik Cassel",
+                    "Ryam Redwyne",
+                    "Sansa Stark",
+                    "Serwyn of the Mirror Shield",
+                    "Stannis Baratheon",
+                    "Theon Greyjoy",
+                    "Tyrion Lannister"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": ["Neck"]
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "The Crownlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["King's Landing"]
+                        }
+                    }, {
+                        "name": "The Riverlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Riverrun"]
+                        }
+                    }, {
+                        "name": "The Vale",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Eyrie"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": null
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Stark",
+                    "House Lannister"
+                ],
+                "mentioned": [
+                    "House Arryn",
+                    "House Baelish",
+                    "House Baratheon",
+                    "House Blount",
+                    "House Cargyll",
+                    "House Cassel",
+                    "House Dayne",
+                    "House Greyjoy",
+                    "House Hightower",
+                    "House Redwyne",
+                    "House Selmy",
+                    "House Targaryen",
+                    "House Trant"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": ["Kingsguard"],
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": ["Maesters"]
+            },
+            "peoples": null,
+            "religious orders": null
+        },
+        "events": {
+            "appearing": null,
+            "mentioned": [{
+                "type": "War",
+                "name": "Dance of the Dragons"
+            }]
+        }
+    }, {
+        "title": "Tyrion I",
+        "number": 9,
+        "pov": "Tyrion Lannister",
+        "pages": 7,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": null,
+            "humans": {
+                "appearing": [
+                    "Cersei Lannister",
+                    "Chayle",
+                    "Jaime Lannister",
+                    "Joffrey Baratheon",
+                    "Myrcella Baratheon",
+                    "Sandor Clegane",
+                    "Tommen Baratheon",
+                    "Tyrion Lannister"
+                ],
+                "mentioned": [
+                    "Aerys II Targaryen",
+                    "Aethelmure",
+                    "Ayrmidon",
+                    "Benjen Stark",
+                    "Bran Stark",
+                    "Brandon Stark",
+                    "Catelyn Stark",
+                    "Eddard Stark",
+                    "Jon Snow",
+                    "Luwin",
+                    "Robert I Baratheon"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "Dorne",
+                        "locations": null
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }, {
+                        "name": "The Westerlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Casterly Rock"]
+                        }
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "locations": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Valyrian peninsula",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["Valyria"]
+                        }
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": [
+                    "House Baratheon",
+                    "House Clegane",
+                    "House Lannister"
+                ],
+                "mentioned": [
+                    "House Stark",
+                    "House Targaryen"
+                ]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": ["Kingsguard"],
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": {
+                "appearing": null,
+                "mentioned": ["Maesters"]
+            },
+            "peoples": null,
+            "religious orders": {
+                "appearing": ["Septons"],
+                "mentioned": null
+            }
+        },
+        "events": null
+    }, {
+        "title": "Jon II",
+        "number": 10,
+        "pov": "Jon Snow",
+        "pages": 7,
+        "words": null,
+        "year": 298,
+        "theme(s)": null,
+        "characters": {
+            "direwolves": {
+                "appearing": [
+                    "Ghost",
+                    "Grey Wind",
+                    "Nymeria (direwolf)"
+                ],
+                "mentioned": ["Summer"]
+            },
+            "humans": {
+                "appearing": [
+                    "Arya Stark",
+                    "Bran Stark",
+                    "Catelyn Stark",
+                    "Jon Snow",
+                    "Robb Stark"
+                ],
+                "mentioned": [
+                    "Benjen Stark",
+                    "Mikken",
+                    "Mordane",
+                    "Sansa Stark"
+                ]
+            }
+        },
+        "continents": {
+            "appearing": [{
+                "name": "Westeros",
+                "regions": {
+                    "appearing": [{
+                        "name": "The North",
+                        "locations": {
+                            "appearing": ["Winterfell"],
+                            "mentioned": null
+                        }
+                    }],
+                    "mentioned": [{
+                        "name": "The Crownlands",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": ["King's Landing"]
+                        }
+                    }, {
+                        "name": "The Wall",
+                        "locations": null
+                    }]
+                }
+            }],
+            "mentioned": [{
+                "name": "Essos",
+                "locations": [{
+                    "appearing": null,
+                    "mentioned": [{
+                        "name": "Free Cities",
+                        "locations": {
+                            "appearing": null,
+                            "mentioned": [
+                                "Myr",
+                                "Pentos"
+                            ]
+                        }
+                    }]
+                }]
+            }]
+        },
+        "groups": {
+            "factions": null,
+            "houses": {
+                "appearing": ["House Stark"],
+                "mentioned": ["House Tully"]
+            },
+            "mercenary companies": null,
+            "military orders": {
+                "appearing": null,
+                "mentioned": ["Night's Watch"]
+            },
+            "other orders": null,
+            "peoples": null,
+            "religious orders": {
+                "appearing": null,
+                "mentioned": ["Septas"]
+            }
+        },
+        "events": null
+    }]
 }]
